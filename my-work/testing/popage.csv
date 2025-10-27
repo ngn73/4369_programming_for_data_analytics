@@ -1,0 +1,3233 @@
+,Age,Region,Both sexes,Female,Male
+0,0,Carlow County Council,699,353,346
+1,0,Cavan County Council,1006,501,505
+2,0,Clare County Council,1377,691,686
+3,0,Cork City Council,2283,1124,1159
+4,0,Cork County Council,4190,2055,2135
+5,0,Donegal County Council,1797,881,916
+6,0,Dublin City Council,6213,3025,3188
+7,0,Dún Laoghaire Rathdown County Council,2457,1188,1269
+8,0,Fingal County Council,4009,1950,2059
+9,0,Galway City Council,792,387,405
+10,0,Galway County Council,2249,1073,1176
+11,0,Ireland,57796,28186,29610
+12,0,Kerry County Council,1665,843,822
+13,0,Kildare County Council,3005,1455,1550
+14,0,Kilkenny County Council,1123,553,570
+15,0,Laois County Council,1100,545,555
+16,0,Leitrim County Council,404,204,200
+17,0,Limerick City & County Council,2165,1049,1116
+18,0,Longford County Council,527,270,257
+19,0,Louth County Council,1700,848,852
+20,0,Mayo  County Council,1520,730,790
+21,0,Meath County Council,2774,1368,1406
+22,0,Monaghan County Council,868,423,445
+23,0,Offaly County Council,935,454,481
+24,0,Roscommon County Council,748,366,382
+25,0,Sligo County Council,743,367,376
+26,0,South Dublin County Council,3544,1689,1855
+27,0,Tipperary County Council,1932,915,1017
+28,0,Waterford City & County Council,1340,662,678
+29,0,Westmeath County Council,1129,535,594
+30,0,Wexford County Council,1792,882,910
+31,0,Wicklow County Council,1710,800,910
+32,1,Carlow County Council,649,302,347
+33,1,Cavan County Council,1004,477,527
+34,1,Clare County Council,1360,704,656
+35,1,Cork City Council,2284,1136,1148
+36,1,Cork County Council,4115,2045,2070
+37,1,Donegal County Council,1881,918,963
+38,1,Dublin City Council,5699,2762,2937
+39,1,Dún Laoghaire Rathdown County Council,2437,1192,1245
+40,1,Fingal County Council,3894,1907,1987
+41,1,Galway City Council,757,395,362
+42,1,Galway County Council,2217,1082,1135
+43,1,Ireland,56420,27545,28875
+44,1,Kerry County Council,1550,739,811
+45,1,Kildare County Council,2987,1452,1535
+46,1,Kilkenny County Council,1121,545,576
+47,1,Laois County Council,1008,491,517
+48,1,Leitrim County Council,406,202,204
+49,1,Limerick City & County Council,2235,1087,1148
+50,1,Longford County Council,482,238,244
+51,1,Louth County Council,1531,722,809
+52,1,Mayo  County Council,1566,790,776
+53,1,Meath County Council,2638,1235,1403
+54,1,Monaghan County Council,821,386,435
+55,1,Offaly County Council,937,446,491
+56,1,Roscommon County Council,764,384,380
+57,1,Sligo County Council,766,383,383
+58,1,South Dublin County Council,3673,1751,1922
+59,1,Tipperary County Council,1808,872,936
+60,1,Waterford City & County Council,1266,602,664
+61,1,Westmeath County Council,1158,602,556
+62,1,Wexford County Council,1724,878,846
+63,1,Wicklow County Council,1682,820,862
+64,2,Carlow County Council,689,334,355
+65,2,Cavan County Council,1061,520,541
+66,2,Clare County Council,1473,744,729
+67,2,Cork City Council,2306,1162,1144
+68,2,Cork County Council,4290,2106,2184
+69,2,Donegal County Council,1971,983,988
+70,2,Dublin City Council,5830,2795,3035
+71,2,Dún Laoghaire Rathdown County Council,2489,1238,1251
+72,2,Fingal County Council,4308,2112,2196
+73,2,Galway City Council,792,386,406
+74,2,Galway County Council,2349,1161,1188
+75,2,Ireland,59210,28974,30236
+76,2,Kerry County Council,1651,803,848
+77,2,Kildare County Council,3102,1559,1543
+78,2,Kilkenny County Council,1179,559,620
+79,2,Laois County Council,1169,564,605
+80,2,Leitrim County Council,453,229,224
+81,2,Limerick City & County Council,2373,1130,1243
+82,2,Longford County Council,544,243,301
+83,2,Louth County Council,1694,793,901
+84,2,Mayo  County Council,1526,731,795
+85,2,Meath County Council,2851,1388,1463
+86,2,Monaghan County Council,870,436,434
+87,2,Offaly County Council,945,456,489
+88,2,Roscommon County Council,893,428,465
+89,2,Sligo County Council,764,360,404
+90,2,South Dublin County Council,3734,1867,1867
+91,2,Tipperary County Council,1836,879,957
+92,2,Waterford City & County Council,1329,665,664
+93,2,Westmeath County Council,1108,532,576
+94,2,Wexford County Council,1835,921,914
+95,2,Wicklow County Council,1796,890,906
+96,3,Carlow County Council,754,378,376
+97,3,Cavan County Council,1085,525,560
+98,3,Clare County Council,1468,745,723
+99,3,Cork City Council,2294,1106,1188
+100,3,Cork County Council,4437,2177,2260
+101,3,Donegal County Council,2074,1044,1030
+102,3,Dublin City Council,5580,2705,2875
+103,3,Dún Laoghaire Rathdown County Council,2613,1309,1304
+104,3,Fingal County Council,4384,2161,2223
+105,3,Galway City Council,799,389,410
+106,3,Galway County Council,2438,1191,1247
+107,3,Ireland,60484,29483,31001
+108,3,Kerry County Council,1714,847,867
+109,3,Kildare County Council,3120,1509,1611
+110,3,Kilkenny County Council,1203,597,606
+111,3,Laois County Council,1219,571,648
+112,3,Leitrim County Council,432,192,240
+113,3,Limerick City & County Council,2352,1159,1193
+114,3,Longford County Council,583,300,283
+115,3,Louth County Council,1603,787,816
+116,3,Mayo  County Council,1557,743,814
+117,3,Meath County Council,2928,1389,1539
+118,3,Monaghan County Council,900,412,488
+119,3,Offaly County Council,1009,478,531
+120,3,Roscommon County Council,859,418,441
+121,3,Sligo County Council,825,405,420
+122,3,South Dublin County Council,3856,1859,1997
+123,3,Tipperary County Council,2048,1019,1029
+124,3,Waterford City & County Council,1476,721,755
+125,3,Westmeath County Council,1148,558,590
+126,3,Wexford County Council,1864,903,961
+127,3,Wicklow County Council,1862,886,976
+128,4,Carlow County Council,745,369,376
+129,4,Cavan County Council,1047,492,555
+130,4,Clare County Council,1505,766,739
+131,4,Cork City Council,2243,1101,1142
+132,4,Cork County Council,4620,2262,2358
+133,4,Donegal County Council,2089,1047,1042
+134,4,Dublin City Council,5624,2755,2869
+135,4,Dún Laoghaire Rathdown County Council,2658,1278,1380
+136,4,Fingal County Council,4422,2147,2275
+137,4,Galway City Council,830,418,412
+138,4,Galway County Council,2543,1189,1354
+139,4,Ireland,61505,29819,31686
+140,4,Kerry County Council,1720,844,876
+141,4,Kildare County Council,3267,1563,1704
+142,4,Kilkenny County Council,1234,618,616
+143,4,Laois County Council,1220,577,643
+144,4,Leitrim County Council,450,227,223
+145,4,Limerick City & County Council,2467,1227,1240
+146,4,Longford County Council,559,283,276
+147,4,Louth County Council,1732,814,918
+148,4,Mayo  County Council,1593,751,842
+149,4,Meath County Council,3026,1448,1578
+150,4,Monaghan County Council,873,424,449
+151,4,Offaly County Council,1007,488,519
+152,4,Roscommon County Council,833,406,427
+153,4,Sligo County Council,820,408,412
+154,4,South Dublin County Council,3870,1868,2002
+155,4,Tipperary County Council,2072,998,1074
+156,4,Waterford City & County Council,1390,634,756
+157,4,Westmeath County Council,1208,609,599
+158,4,Wexford County Council,1941,921,1020
+159,4,Wicklow County Council,1897,887,1010
+160,5,Carlow County Council,749,365,384
+161,5,Cavan County Council,1143,544,599
+162,5,Clare County Council,1620,799,821
+163,5,Cork City Council,2362,1186,1176
+164,5,Cork County Council,4753,2347,2406
+165,5,Donegal County Council,2174,1095,1079
+166,5,Dublin City Council,5575,2782,2793
+167,5,Dún Laoghaire Rathdown County Council,2868,1426,1442
+168,5,Fingal County Council,4639,2252,2387
+169,5,Galway City Council,849,412,437
+170,5,Galway County Council,2612,1286,1326
+171,5,Ireland,64026,31342,32684
+172,5,Kerry County Council,1873,935,938
+173,5,Kildare County Council,3296,1604,1692
+174,5,Kilkenny County Council,1337,644,693
+175,5,Laois County Council,1248,607,641
+176,5,Leitrim County Council,447,218,229
+177,5,Limerick City & County Council,2484,1190,1294
+178,5,Longford County Council,646,299,347
+179,5,Louth County Council,1793,896,897
+180,5,Mayo  County Council,1712,832,880
+181,5,Meath County Council,3121,1520,1601
+182,5,Monaghan County Council,882,448,434
+183,5,Offaly County Council,1099,530,569
+184,5,Roscommon County Council,913,442,471
+185,5,Sligo County Council,819,392,427
+186,5,South Dublin County Council,4053,1946,2107
+187,5,Tipperary County Council,2070,987,1083
+188,5,Waterford City & County Council,1515,728,787
+189,5,Westmeath County Council,1276,617,659
+190,5,Wexford County Council,2022,1000,1022
+191,5,Wicklow County Council,2076,1013,1063
+192,6,Carlow County Council,750,367,383
+193,6,Cavan County Council,1176,591,585
+194,6,Clare County Council,1656,789,867
+195,6,Cork City Council,2496,1228,1268
+196,6,Cork County Council,5072,2434,2638
+197,6,Donegal County Council,2224,1061,1163
+198,6,Dublin City Council,5813,2879,2934
+199,6,Dún Laoghaire Rathdown County Council,2879,1394,1485
+200,6,Fingal County Council,4863,2361,2502
+201,6,Galway City Council,855,406,449
+202,6,Galway County Council,2720,1361,1359
+203,6,Ireland,66714,32622,34092
+204,6,Kerry County Council,1848,903,945
+205,6,Kildare County Council,3506,1722,1784
+206,6,Kilkenny County Council,1432,669,763
+207,6,Laois County Council,1328,630,698
+208,6,Leitrim County Council,468,236,232
+209,6,Limerick City & County Council,2621,1317,1304
+210,6,Longford County Council,624,287,337
+211,6,Louth County Council,1922,935,987
+212,6,Mayo  County Council,1764,847,917
+213,6,Meath County Council,3216,1628,1588
+214,6,Monaghan County Council,995,513,482
+215,6,Offaly County Council,1079,522,557
+216,6,Roscommon County Council,923,473,450
+217,6,Sligo County Council,824,401,423
+218,6,South Dublin County Council,4198,2057,2141
+219,6,Tipperary County Council,2202,1079,1123
+220,6,Waterford City & County Council,1627,780,847
+221,6,Westmeath County Council,1352,668,684
+222,6,Wexford County Council,2165,1058,1107
+223,6,Wicklow County Council,2116,1026,1090
+224,7,Carlow County Council,889,455,434
+225,7,Cavan County Council,1162,555,607
+226,7,Clare County Council,1663,805,858
+227,7,Cork City Council,2564,1195,1369
+228,7,Cork County Council,5342,2605,2737
+229,7,Donegal County Council,2212,1075,1137
+230,7,Dublin City Council,5912,2891,3021
+231,7,Dún Laoghaire Rathdown County Council,2974,1469,1505
+232,7,Fingal County Council,5053,2476,2577
+233,7,Galway City Council,893,433,460
+234,7,Galway County Council,2659,1291,1368
+235,7,Ireland,69001,33572,35429
+236,7,Kerry County Council,1957,946,1011
+237,7,Kildare County Council,3655,1776,1879
+238,7,Kilkenny County Council,1467,756,711
+239,7,Laois County Council,1409,696,713
+240,7,Leitrim County Council,493,239,254
+241,7,Limerick City & County Council,2603,1271,1332
+242,7,Longford County Council,676,345,331
+243,7,Louth County Council,1950,936,1014
+244,7,Mayo  County Council,1798,874,924
+245,7,Meath County Council,3439,1665,1774
+246,7,Monaghan County Council,968,458,510
+247,7,Offaly County Council,1238,618,620
+248,7,Roscommon County Council,1011,504,507
+249,7,Sligo County Council,934,426,508
+250,7,South Dublin County Council,4394,2092,2302
+251,7,Tipperary County Council,2236,1088,1148
+252,7,Waterford City & County Council,1689,841,848
+253,7,Westmeath County Council,1331,677,654
+254,7,Wexford County Council,2233,1069,1164
+255,7,Wicklow County Council,2197,1045,1152
+256,8,Carlow County Council,819,404,415
+257,8,Cavan County Council,1217,615,602
+258,8,Clare County Council,1670,801,869
+259,8,Cork City Council,2516,1246,1270
+260,8,Cork County Council,5410,2625,2785
+261,8,Donegal County Council,2319,1095,1224
+262,8,Dublin City Council,6086,2991,3095
+263,8,Dún Laoghaire Rathdown County Council,2985,1468,1517
+264,8,Fingal County Council,5360,2608,2752
+265,8,Galway City Council,923,480,443
+266,8,Galway County Council,2915,1408,1507
+267,8,Ireland,70733,34437,36296
+268,8,Kerry County Council,1876,919,957
+269,8,Kildare County Council,3699,1773,1926
+270,8,Kilkenny County Council,1483,702,781
+271,8,Laois County Council,1446,723,723
+272,8,Leitrim County Council,509,255,254
+273,8,Limerick City & County Council,2770,1362,1408
+274,8,Longford County Council,661,313,348
+275,8,Louth County Council,2059,1011,1048
+276,8,Mayo  County Council,1792,861,931
+277,8,Meath County Council,3593,1712,1881
+278,8,Monaghan County Council,991,476,515
+279,8,Offaly County Council,1216,578,638
+280,8,Roscommon County Council,982,470,512
+281,8,Sligo County Council,942,461,481
+282,8,South Dublin County Council,4503,2183,2320
+283,8,Tipperary County Council,2314,1156,1158
+284,8,Waterford City & County Council,1736,820,916
+285,8,Westmeath County Council,1412,712,700
+286,8,Wexford County Council,2292,1104,1188
+287,8,Wicklow County Council,2237,1105,1132
+288,9,Carlow County Council,882,435,447
+289,9,Cavan County Council,1289,602,687
+290,9,Clare County Council,1806,873,933
+291,9,Cork City Council,2617,1271,1346
+292,9,Cork County Council,5501,2699,2802
+293,9,Donegal County Council,2391,1169,1222
+294,9,Dublin City Council,5970,2930,3040
+295,9,Dún Laoghaire Rathdown County Council,3004,1550,1454
+296,9,Fingal County Council,5400,2625,2775
+297,9,Galway City Council,942,465,477
+298,9,Galway County Council,2890,1345,1545
+299,9,Ireland,72196,35227,36969
+300,9,Kerry County Council,2071,1000,1071
+301,9,Kildare County Council,3832,1893,1939
+302,9,Kilkenny County Council,1529,773,756
+303,9,Laois County Council,1435,655,780
+304,9,Leitrim County Council,542,258,284
+305,9,Limerick City & County Council,2825,1363,1462
+306,9,Longford County Council,746,356,390
+307,9,Louth County Council,2124,1061,1063
+308,9,Mayo  County Council,1886,908,978
+309,9,Meath County Council,3637,1832,1805
+310,9,Monaghan County Council,990,457,533
+311,9,Offaly County Council,1210,600,610
+312,9,Roscommon County Council,1029,483,546
+313,9,Sligo County Council,960,448,512
+314,9,South Dublin County Council,4522,2224,2298
+315,9,Tipperary County Council,2267,1140,1127
+316,9,Waterford City & County Council,1727,826,901
+317,9,Westmeath County Council,1454,706,748
+318,9,Wexford County Council,2354,1119,1235
+319,9,Wicklow County Council,2364,1161,1203
+320,10,Carlow County Council,921,446,475
+321,10,Cavan County Council,1312,661,651
+322,10,Clare County Council,1874,960,914
+323,10,Cork City Council,2580,1285,1295
+324,10,Cork County Council,5652,2831,2821
+325,10,Donegal County Council,2510,1233,1277
+326,10,Dublin City Council,6174,3027,3147
+327,10,Dún Laoghaire Rathdown County Council,3035,1449,1586
+328,10,Fingal County Council,5674,2736,2938
+329,10,Galway City Council,888,438,450
+330,10,Galway County Council,2974,1418,1556
+331,10,Ireland,74101,36066,38035
+332,10,Kerry County Council,2066,1023,1043
+333,10,Kildare County Council,3875,1890,1985
+334,10,Kilkenny County Council,1618,771,847
+335,10,Laois County Council,1562,769,793
+336,10,Leitrim County Council,502,257,245
+337,10,Limerick City & County Council,2868,1392,1476
+338,10,Longford County Council,728,361,367
+339,10,Louth County Council,2125,1029,1096
+340,10,Mayo  County Council,1907,939,968
+341,10,Meath County Council,3756,1800,1956
+342,10,Monaghan County Council,1034,490,544
+343,10,Offaly County Council,1293,650,643
+344,10,Roscommon County Council,1008,484,524
+345,10,Sligo County Council,1018,465,553
+346,10,South Dublin County Council,4797,2270,2527
+347,10,Tipperary County Council,2475,1185,1290
+348,10,Waterford City & County Council,1775,871,904
+349,10,Westmeath County Council,1405,690,715
+350,10,Wexford County Council,2373,1107,1266
+351,10,Wicklow County Council,2322,1139,1183
+352,11,Carlow County Council,964,450,514
+353,11,Cavan County Council,1328,624,704
+354,11,Clare County Council,1821,913,908
+355,11,Cork City Council,2695,1302,1393
+356,11,Cork County Council,5852,2873,2979
+357,11,Donegal County Council,2584,1254,1330
+358,11,Dublin City Council,6056,3003,3053
+359,11,Dún Laoghaire Rathdown County Council,3020,1484,1536
+360,11,Fingal County Council,5467,2660,2807
+361,11,Galway City Council,971,480,491
+362,11,Galway County Council,2978,1487,1491
+363,11,Ireland,75159,36863,38296
+364,11,Kerry County Council,2116,1074,1042
+365,11,Kildare County Council,4081,1954,2127
+366,11,Kilkenny County Council,1609,809,800
+367,11,Laois County Council,1553,729,824
+368,11,Leitrim County Council,531,265,266
+369,11,Limerick City & County Council,2979,1487,1492
+370,11,Longford County Council,734,343,391
+371,11,Louth County Council,2186,1066,1120
+372,11,Mayo  County Council,1975,960,1015
+373,11,Meath County Council,3898,1920,1978
+374,11,Monaghan County Council,1007,502,505
+375,11,Offaly County Council,1267,608,659
+376,11,Roscommon County Council,1058,505,553
+377,11,Sligo County Council,956,459,497
+378,11,South Dublin County Council,4732,2350,2382
+379,11,Tipperary County Council,2431,1163,1268
+380,11,Waterford City & County Council,1877,943,934
+381,11,Westmeath County Council,1484,714,770
+382,11,Wexford County Council,2410,1190,1220
+383,11,Wicklow County Council,2539,1292,1247
+384,12,Carlow County Council,908,467,441
+385,12,Cavan County Council,1317,672,645
+386,12,Clare County Council,1983,999,984
+387,12,Cork City Council,2690,1334,1356
+388,12,Cork County Council,5901,2829,3072
+389,12,Donegal County Council,2624,1292,1332
+390,12,Dublin City Council,6284,3048,3236
+391,12,Dún Laoghaire Rathdown County Council,2991,1430,1561
+392,12,Fingal County Council,5792,2779,3013
+393,12,Galway City Council,881,438,443
+394,12,Galway County Council,2943,1413,1530
+395,12,Ireland,76254,37297,38957
+396,12,Kerry County Council,2255,1090,1165
+397,12,Kildare County Council,4041,1984,2057
+398,12,Kilkenny County Council,1600,775,825
+399,12,Laois County Council,1625,807,818
+400,12,Leitrim County Council,532,276,256
+401,12,Limerick City & County Council,2883,1362,1521
+402,12,Longford County Council,731,350,381
+403,12,Louth County Council,2211,1113,1098
+404,12,Mayo  County Council,1962,962,1000
+405,12,Meath County Council,3876,1912,1964
+406,12,Monaghan County Council,1057,525,532
+407,12,Offaly County Council,1300,619,681
+408,12,Roscommon County Council,1047,539,508
+409,12,Sligo County Council,1027,506,521
+410,12,South Dublin County Council,4855,2396,2459
+411,12,Tipperary County Council,2571,1225,1346
+412,12,Waterford City & County Council,1933,949,984
+413,12,Westmeath County Council,1466,714,752
+414,12,Wexford County Council,2443,1228,1215
+415,12,Wicklow County Council,2525,1264,1261
+416,13,Carlow County Council,943,459,484
+417,13,Cavan County Council,1343,634,709
+418,13,Clare County Council,1874,914,960
+419,13,Cork City Council,2594,1302,1292
+420,13,Cork County Council,5833,2897,2936
+421,13,Donegal County Council,2632,1255,1377
+422,13,Dublin City Council,6039,2975,3064
+423,13,Dún Laoghaire Rathdown County Council,2976,1432,1544
+424,13,Fingal County Council,5485,2655,2830
+425,13,Galway City Council,979,468,511
+426,13,Galway County Council,3039,1471,1568
+427,13,Ireland,75256,36782,38474
+428,13,Kerry County Council,2194,1087,1107
+429,13,Kildare County Council,3967,1909,2058
+430,13,Kilkenny County Council,1612,769,843
+431,13,Laois County Council,1533,745,788
+432,13,Leitrim County Council,497,238,259
+433,13,Limerick City & County Council,2951,1435,1516
+434,13,Longford County Council,763,378,385
+435,13,Louth County Council,2303,1113,1190
+436,13,Mayo  County Council,1888,919,969
+437,13,Meath County Council,3785,1888,1897
+438,13,Monaghan County Council,1050,532,518
+439,13,Offaly County Council,1356,662,694
+440,13,Roscommon County Council,1037,488,549
+441,13,Sligo County Council,983,503,480
+442,13,South Dublin County Council,4677,2304,2373
+443,13,Tipperary County Council,2502,1246,1256
+444,13,Waterford City & County Council,1927,985,942
+445,13,Westmeath County Council,1426,683,743
+446,13,Wexford County Council,2621,1283,1338
+447,13,Wicklow County Council,2447,1153,1294
+448,14,Carlow County Council,951,465,486
+449,14,Cavan County Council,1262,621,641
+450,14,Clare County Council,1848,894,954
+451,14,Cork City Council,2541,1270,1271
+452,14,Cork County Council,5634,2779,2855
+453,14,Donegal County Council,2610,1281,1329
+454,14,Dublin City Council,5748,2942,2806
+455,14,Dún Laoghaire Rathdown County Council,2917,1464,1453
+456,14,Fingal County Council,5298,2584,2714
+457,14,Galway City Council,881,425,456
+458,14,Galway County Council,3044,1506,1538
+459,14,Ireland,73432,36080,37352
+460,14,Kerry County Council,2200,1098,1102
+461,14,Kildare County Council,3944,1907,2037
+462,14,Kilkenny County Council,1547,692,855
+463,14,Laois County Council,1553,763,790
+464,14,Leitrim County Council,495,230,265
+465,14,Limerick City & County Council,2898,1445,1453
+466,14,Longford County Council,724,352,372
+467,14,Louth County Council,2161,1072,1089
+468,14,Mayo  County Council,1916,942,974
+469,14,Meath County Council,3694,1853,1841
+470,14,Monaghan County Council,1024,462,562
+471,14,Offaly County Council,1276,589,687
+472,14,Roscommon County Council,996,473,523
+473,14,Sligo County Council,992,467,525
+474,14,South Dublin County Council,4581,2222,2359
+475,14,Tipperary County Council,2522,1259,1263
+476,14,Waterford City & County Council,1856,896,960
+477,14,Westmeath County Council,1422,689,733
+478,14,Wexford County Council,2413,1200,1213
+479,14,Wicklow County Council,2484,1238,1246
+480,15,Carlow County Council,843,411,432
+481,15,Cavan County Council,1271,643,628
+482,15,Clare County Council,1888,907,981
+483,15,Cork City Council,2551,1228,1323
+484,15,Cork County Council,5424,2629,2795
+485,15,Donegal County Council,2473,1202,1271
+486,15,Dublin City Council,5442,2729,2713
+487,15,Dún Laoghaire Rathdown County Council,2775,1383,1392
+488,15,Fingal County Council,4948,2420,2528
+489,15,Galway City Council,877,433,444
+490,15,Galway County Council,2775,1394,1381
+491,15,Ireland,70440,34492,35948
+492,15,Kerry County Council,2128,1036,1092
+493,15,Kildare County Council,3750,1817,1933
+494,15,Kilkenny County Council,1588,760,828
+495,15,Laois County Council,1474,727,747
+496,15,Leitrim County Council,528,263,265
+497,15,Limerick City & County Council,2744,1335,1409
+498,15,Longford County Council,742,358,384
+499,15,Louth County Council,2140,1030,1110
+500,15,Mayo  County Council,1840,911,929
+501,15,Meath County Council,3500,1729,1771
+502,15,Monaghan County Council,961,487,474
+503,15,Offaly County Council,1252,597,655
+504,15,Roscommon County Council,1002,491,511
+505,15,Sligo County Council,954,442,512
+506,15,South Dublin County Council,4273,2126,2147
+507,15,Tipperary County Council,2428,1178,1250
+508,15,Waterford City & County Council,1826,872,954
+509,15,Westmeath County Council,1362,659,703
+510,15,Wexford County Council,2361,1170,1191
+511,15,Wicklow County Council,2320,1125,1195
+512,16,Carlow County Council,873,442,431
+513,16,Cavan County Council,1161,550,611
+514,16,Clare County Council,1850,947,903
+515,16,Cork City Council,2421,1202,1219
+516,16,Cork County Council,5171,2562,2609
+517,16,Donegal County Council,2441,1149,1292
+518,16,Dublin City Council,5408,2658,2750
+519,16,Dún Laoghaire Rathdown County Council,2733,1352,1381
+520,16,Fingal County Council,4531,2238,2293
+521,16,Galway City Council,862,443,419
+522,16,Galway County Council,2963,1444,1519
+523,16,Ireland,67814,33168,34646
+524,16,Kerry County Council,2007,1019,988
+525,16,Kildare County Council,3516,1713,1803
+526,16,Kilkenny County Council,1456,673,783
+527,16,Laois County Council,1313,633,680
+528,16,Leitrim County Council,494,229,265
+529,16,Limerick City & County Council,2727,1291,1436
+530,16,Longford County Council,667,327,340
+531,16,Louth County Council,2071,1019,1052
+532,16,Mayo  County Council,1878,933,945
+533,16,Meath County Council,3275,1570,1705
+534,16,Monaghan County Council,911,449,462
+535,16,Offaly County Council,1166,566,600
+536,16,Roscommon County Council,1014,511,503
+537,16,Sligo County Council,916,455,461
+538,16,South Dublin County Council,4082,1978,2104
+539,16,Tipperary County Council,2312,1152,1160
+540,16,Waterford City & County Council,1811,866,945
+541,16,Westmeath County Council,1348,635,713
+542,16,Wexford County Council,2305,1108,1197
+543,16,Wicklow County Council,2131,1054,1077
+544,17,Carlow County Council,877,414,463
+545,17,Cavan County Council,1186,590,596
+546,17,Clare County Council,1844,890,954
+547,17,Cork City Council,2447,1222,1225
+548,17,Cork County Council,5105,2431,2674
+549,17,Donegal County Council,2366,1130,1236
+550,17,Dublin City Council,5640,2734,2906
+551,17,Dún Laoghaire Rathdown County Council,2772,1398,1374
+552,17,Fingal County Council,4566,2195,2371
+553,17,Galway City Council,854,416,438
+554,17,Galway County Council,2786,1329,1457
+555,17,Ireland,68026,33045,34981
+556,17,Kerry County Council,2103,1046,1057
+557,17,Kildare County Council,3618,1734,1884
+558,17,Kilkenny County Council,1465,739,726
+559,17,Laois County Council,1421,718,703
+560,17,Leitrim County Council,496,226,270
+561,17,Limerick City & County Council,2615,1224,1391
+562,17,Longford County Council,645,314,331
+563,17,Louth County Council,2041,1009,1032
+564,17,Mayo  County Council,1831,885,946
+565,17,Meath County Council,3195,1582,1613
+566,17,Monaghan County Council,976,480,496
+567,17,Offaly County Council,1162,524,638
+568,17,Roscommon County Council,963,482,481
+569,17,Sligo County Council,933,452,481
+570,17,South Dublin County Council,4112,2034,2078
+571,17,Tipperary County Council,2456,1216,1240
+572,17,Waterford City & County Council,1725,862,863
+573,17,Westmeath County Council,1328,643,685
+574,17,Wexford County Council,2266,1062,1204
+575,17,Wicklow County Council,2232,1064,1168
+576,18,Carlow County Council,903,466,437
+577,18,Cavan County Council,1107,533,574
+578,18,Clare County Council,1690,830,860
+579,18,Cork City Council,2648,1288,1360
+580,18,Cork County Council,4786,2343,2443
+581,18,Donegal County Council,2285,1110,1175
+582,18,Dublin City Council,6434,3291,3143
+583,18,Dún Laoghaire Rathdown County Council,2938,1511,1427
+584,18,Fingal County Council,4473,2252,2221
+585,18,Galway City Council,1033,521,512
+586,18,Galway County Council,2546,1214,1332
+587,18,Ireland,66752,32852,33900
+588,18,Kerry County Council,1928,943,985
+589,18,Kildare County Council,3596,1708,1888
+590,18,Kilkenny County Council,1414,699,715
+591,18,Laois County Council,1299,634,665
+592,18,Leitrim County Council,449,220,229
+593,18,Limerick City & County Council,2701,1305,1396
+594,18,Longford County Council,609,272,337
+595,18,Louth County Council,1952,953,999
+596,18,Mayo  County Council,1749,876,873
+597,18,Meath County Council,3089,1496,1593
+598,18,Monaghan County Council,799,395,404
+599,18,Offaly County Council,1221,584,637
+600,18,Roscommon County Council,899,412,487
+601,18,Sligo County Council,897,462,435
+602,18,South Dublin County Council,3971,1949,2022
+603,18,Tipperary County Council,2135,1046,1089
+604,18,Waterford City & County Council,1699,817,882
+605,18,Westmeath County Council,1264,623,641
+606,18,Wexford County Council,2226,1084,1142
+607,18,Wicklow County Council,2012,1015,997
+608,19,Carlow County Council,827,381,446
+609,19,Cavan County Council,915,436,479
+610,19,Clare County Council,1650,821,829
+611,19,Cork City Council,3405,1731,1674
+612,19,Cork County Council,4230,1971,2259
+613,19,Donegal County Council,1813,883,930
+614,19,Dublin City Council,7345,3676,3669
+615,19,Dún Laoghaire Rathdown County Council,3236,1659,1577
+616,19,Fingal County Council,4358,2191,2167
+617,19,Galway City Council,1764,1006,758
+618,19,Galway County Council,2251,1039,1212
+619,19,Ireland,64596,31729,32867
+620,19,Kerry County Council,1678,798,880
+621,19,Kildare County Council,3490,1746,1744
+622,19,Kilkenny County Council,1125,563,562
+623,19,Laois County Council,1130,537,593
+624,19,Leitrim County Council,329,167,162
+625,19,Limerick City & County Council,2889,1422,1467
+626,19,Longford County Council,563,276,287
+627,19,Louth County Council,1770,876,894
+628,19,Mayo  County Council,1418,684,734
+629,19,Meath County Council,2892,1385,1507
+630,19,Monaghan County Council,734,322,412
+631,19,Offaly County Council,1018,473,545
+632,19,Roscommon County Council,728,355,373
+633,19,Sligo County Council,922,503,419
+634,19,South Dublin County Council,3952,1911,2041
+635,19,Tipperary County Council,1776,846,930
+636,19,Waterford City & County Council,1593,767,826
+637,19,Westmeath County Council,1117,532,585
+638,19,Wexford County Council,1813,872,941
+639,19,Wicklow County Council,1865,900,965
+640,20,Carlow County Council,810,366,444
+641,20,Cavan County Council,843,388,455
+642,20,Clare County Council,1567,739,828
+643,20,Cork City Council,3541,1889,1652
+644,20,Cork County Council,3787,1783,2004
+645,20,Donegal County Council,1805,864,941
+646,20,Dublin City Council,8103,4326,3777
+647,20,Dún Laoghaire Rathdown County Council,3277,1742,1535
+648,20,Fingal County Council,4153,2073,2080
+649,20,Galway City Council,2024,1142,882
+650,20,Galway County Council,2052,974,1078
+651,20,Ireland,63744,31624,32120
+652,20,Kerry County Council,1630,823,807
+653,20,Kildare County Council,3333,1589,1744
+654,20,Kilkenny County Council,1089,529,560
+655,20,Laois County Council,1047,510,537
+656,20,Leitrim County Council,344,159,185
+657,20,Limerick City & County Council,2932,1504,1428
+658,20,Longford County Council,561,246,315
+659,20,Louth County Council,1917,880,1037
+660,20,Mayo  County Council,1310,658,652
+661,20,Meath County Council,2730,1276,1454
+662,20,Monaghan County Council,653,304,349
+663,20,Offaly County Council,991,487,504
+664,20,Roscommon County Council,696,321,375
+665,20,Sligo County Council,877,450,427
+666,20,South Dublin County Council,3700,1796,1904
+667,20,Tipperary County Council,1823,853,970
+668,20,Waterford City & County Council,1564,770,794
+669,20,Westmeath County Council,1105,543,562
+670,20,Wexford County Council,1764,832,932
+671,20,Wicklow County Council,1716,808,908
+672,21,Carlow County Council,813,381,432
+673,21,Cavan County Council,832,390,442
+674,21,Clare County Council,1352,697,655
+675,21,Cork City Council,3518,1851,1667
+676,21,Cork County Council,3571,1700,1871
+677,21,Donegal County Council,1708,821,887
+678,21,Dublin City Council,8140,4237,3903
+679,21,Dún Laoghaire Rathdown County Council,3085,1605,1480
+680,21,Fingal County Council,3792,1833,1959
+681,21,Galway City Council,2084,1161,923
+682,21,Galway County Council,1850,840,1010
+683,21,Ireland,60661,29890,30771
+684,21,Kerry County Council,1518,762,756
+685,21,Kildare County Council,3050,1463,1587
+686,21,Kilkenny County Council,1045,471,574
+687,21,Laois County Council,1025,491,534
+688,21,Leitrim County Council,277,131,146
+689,21,Limerick City & County Council,2657,1314,1343
+690,21,Longford County Council,507,233,274
+691,21,Louth County Council,1711,814,897
+692,21,Mayo  County Council,1263,634,629
+693,21,Meath County Council,2546,1216,1330
+694,21,Monaghan County Council,668,317,351
+695,21,Offaly County Council,882,416,466
+696,21,Roscommon County Council,688,345,343
+697,21,Sligo County Council,858,409,449
+698,21,South Dublin County Council,3683,1783,1900
+699,21,Tipperary County Council,1755,816,939
+700,21,Waterford City & County Council,1481,709,772
+701,21,Westmeath County Council,1097,525,572
+702,21,Wexford County Council,1582,781,801
+703,21,Wicklow County Council,1623,744,879
+704,22,Carlow County Council,769,361,408
+705,22,Cavan County Council,855,414,441
+706,22,Clare County Council,1503,728,775
+707,22,Cork City Council,3677,1835,1842
+708,22,Cork County Council,3552,1720,1832
+709,22,Donegal County Council,1731,861,870
+710,22,Dublin City Council,9091,4719,4372
+711,22,Dún Laoghaire Rathdown County Council,3242,1635,1607
+712,22,Fingal County Council,3827,1844,1983
+713,22,Galway City Council,1964,1069,895
+714,22,Galway County Council,1776,848,928
+715,22,Ireland,62218,30768,31450
+716,22,Kerry County Council,1556,766,790
+717,22,Kildare County Council,2890,1380,1510
+718,22,Kilkenny County Council,993,438,555
+719,22,Laois County Council,994,477,517
+720,22,Leitrim County Council,322,152,170
+721,22,Limerick City & County Council,2951,1473,1478
+722,22,Longford County Council,516,257,259
+723,22,Louth County Council,1718,866,852
+724,22,Mayo  County Council,1294,670,624
+725,22,Meath County Council,2430,1116,1314
+726,22,Monaghan County Council,667,315,352
+727,22,Offaly County Council,915,413,502
+728,22,Roscommon County Council,665,318,347
+729,22,Sligo County Council,815,404,411
+730,22,South Dublin County Council,3724,1851,1873
+731,22,Tipperary County Council,1782,873,909
+732,22,Waterford City & County Council,1471,720,751
+733,22,Westmeath County Council,1103,568,535
+734,22,Wexford County Council,1766,888,878
+735,22,Wicklow County Council,1659,789,870
+736,23,Carlow County Council,720,344,376
+737,23,Cavan County Council,875,439,436
+738,23,Clare County Council,1281,649,632
+739,23,Cork City Council,3500,1779,1721
+740,23,Cork County Council,3388,1603,1785
+741,23,Donegal County Council,1571,762,809
+742,23,Dublin City Council,9981,5142,4839
+743,23,Dún Laoghaire Rathdown County Council,3247,1681,1566
+744,23,Fingal County Council,3733,1807,1926
+745,23,Galway City Council,1722,927,795
+746,23,Galway County Council,1726,819,907
+747,23,Ireland,60922,30051,30871
+748,23,Kerry County Council,1597,763,834
+749,23,Kildare County Council,2860,1391,1469
+750,23,Kilkenny County Council,994,471,523
+751,23,Laois County Council,961,458,503
+752,23,Leitrim County Council,329,152,177
+753,23,Limerick City & County Council,2597,1246,1351
+754,23,Longford County Council,498,232,266
+755,23,Louth County Council,1579,767,812
+756,23,Mayo  County Council,1242,623,619
+757,23,Meath County Council,2320,1063,1257
+758,23,Monaghan County Council,662,302,360
+759,23,Offaly County Council,894,441,453
+760,23,Roscommon County Council,643,307,336
+761,23,Sligo County Council,752,387,365
+762,23,South Dublin County Council,3783,1884,1899
+763,23,Tipperary County Council,1696,830,866
+764,23,Waterford City & County Council,1462,722,740
+765,23,Westmeath County Council,1052,468,584
+766,23,Wexford County Council,1722,868,854
+767,23,Wicklow County Council,1535,724,811
+768,24,Carlow County Council,669,329,340
+769,24,Cavan County Council,827,398,429
+770,24,Clare County Council,1255,606,649
+771,24,Cork City Council,3417,1730,1687
+772,24,Cork County Council,3263,1559,1704
+773,24,Donegal County Council,1557,736,821
+774,24,Dublin City Council,10592,5455,5137
+775,24,Dún Laoghaire Rathdown County Council,3169,1661,1508
+776,24,Fingal County Council,3592,1774,1818
+777,24,Galway City Council,1727,872,855
+778,24,Galway County Council,1651,752,899
+779,24,Ireland,59598,29364,30234
+780,24,Kerry County Council,1482,732,750
+781,24,Kildare County Council,2675,1335,1340
+782,24,Kilkenny County Council,1036,510,526
+783,24,Laois County Council,905,434,471
+784,24,Leitrim County Council,272,125,147
+785,24,Limerick City & County Council,2545,1190,1355
+786,24,Longford County Council,446,207,239
+787,24,Louth County Council,1469,732,737
+788,24,Mayo  County Council,1159,515,644
+789,24,Meath County Council,2253,1083,1170
+790,24,Monaghan County Council,664,288,376
+791,24,Offaly County Council,887,450,437
+792,24,Roscommon County Council,561,276,285
+793,24,Sligo County Council,737,364,373
+794,24,South Dublin County Council,3650,1795,1855
+795,24,Tipperary County Council,1709,867,842
+796,24,Waterford City & County Council,1349,638,711
+797,24,Westmeath County Council,1077,510,567
+798,24,Wexford County Council,1595,758,837
+799,24,Wicklow County Council,1408,683,725
+800,25,Carlow County Council,625,295,330
+801,25,Cavan County Council,841,403,438
+802,25,Clare County Council,1258,631,627
+803,25,Cork City Council,3512,1733,1779
+804,25,Cork County Council,3092,1502,1590
+805,25,Donegal County Council,1476,719,757
+806,25,Dublin City Council,11301,5667,5634
+807,25,Dún Laoghaire Rathdown County Council,3110,1578,1532
+808,25,Fingal County Council,3627,1796,1831
+809,25,Galway City Council,1651,863,788
+810,25,Galway County Council,1620,818,802
+811,25,Ireland,59263,29294,29969
+812,25,Kerry County Council,1480,725,755
+813,25,Kildare County Council,2651,1307,1344
+814,25,Kilkenny County Council,1002,463,539
+815,25,Laois County Council,851,414,437
+816,25,Leitrim County Council,286,144,142
+817,25,Limerick City & County Council,2626,1280,1346
+818,25,Longford County Council,441,231,210
+819,25,Louth County Council,1415,665,750
+820,25,Mayo  County Council,1136,538,598
+821,25,Meath County Council,2042,969,1073
+822,25,Monaghan County Council,598,282,316
+823,25,Offaly County Council,854,430,424
+824,25,Roscommon County Council,612,300,312
+825,25,Sligo County Council,710,351,359
+826,25,South Dublin County Council,3634,1873,1761
+827,25,Tipperary County Council,1622,778,844
+828,25,Waterford City & County Council,1267,613,654
+829,25,Westmeath County Council,1041,524,517
+830,25,Wexford County Council,1537,744,793
+831,25,Wicklow County Council,1345,658,687
+832,26,Carlow County Council,663,333,330
+833,26,Cavan County Council,777,375,402
+834,26,Clare County Council,1179,593,586
+835,26,Cork City Council,3390,1633,1757
+836,26,Cork County Council,3074,1562,1512
+837,26,Donegal County Council,1507,735,772
+838,26,Dublin City Council,11664,5932,5732
+839,26,Dún Laoghaire Rathdown County Council,3065,1528,1537
+840,26,Fingal County Council,3581,1740,1841
+841,26,Galway City Council,1522,751,771
+842,26,Galway County Council,1549,707,842
+843,26,Ireland,58240,28864,29376
+844,26,Kerry County Council,1368,657,711
+845,26,Kildare County Council,2443,1208,1235
+846,26,Kilkenny County Council,966,494,472
+847,26,Laois County Council,892,433,459
+848,26,Leitrim County Council,282,126,156
+849,26,Limerick City & County Council,2557,1293,1264
+850,26,Longford County Council,487,237,250
+851,26,Louth County Council,1339,663,676
+852,26,Mayo  County Council,1128,549,579
+853,26,Meath County Council,2007,999,1008
+854,26,Monaghan County Council,615,291,324
+855,26,Offaly County Council,790,381,409
+856,26,Roscommon County Council,580,264,316
+857,26,Sligo County Council,629,313,316
+858,26,South Dublin County Council,3394,1681,1713
+859,26,Tipperary County Council,1530,762,768
+860,26,Waterford City & County Council,1264,623,641
+861,26,Westmeath County Council,1038,511,527
+862,26,Wexford County Council,1580,777,803
+863,26,Wicklow County Council,1380,713,667
+864,27,Carlow County Council,658,309,349
+865,27,Cavan County Council,750,370,380
+866,27,Clare County Council,1180,587,593
+867,27,Cork City Council,3461,1759,1702
+868,27,Cork County Council,3045,1519,1526
+869,27,Donegal County Council,1442,747,695
+870,27,Dublin City Council,11941,5976,5965
+871,27,Dún Laoghaire Rathdown County Council,2989,1518,1471
+872,27,Fingal County Council,3641,1832,1809
+873,27,Galway City Council,1435,705,730
+874,27,Galway County Council,1405,733,672
+875,27,Ireland,58690,29528,29162
+876,27,Kerry County Council,1411,698,713
+877,27,Kildare County Council,2585,1291,1294
+878,27,Kilkenny County Council,972,502,470
+879,27,Laois County Council,897,415,482
+880,27,Leitrim County Council,275,138,137
+881,27,Limerick City & County Council,2467,1238,1229
+882,27,Longford County Council,462,232,230
+883,27,Louth County Council,1462,765,697
+884,27,Mayo  County Council,1115,559,556
+885,27,Meath County Council,2037,1045,992
+886,27,Monaghan County Council,639,287,352
+887,27,Offaly County Council,822,405,417
+888,27,Roscommon County Council,568,293,275
+889,27,Sligo County Council,631,294,337
+890,27,South Dublin County Council,3538,1793,1745
+891,27,Tipperary County Council,1547,772,775
+892,27,Waterford City & County Council,1304,665,639
+893,27,Westmeath County Council,1029,524,505
+894,27,Wexford County Council,1582,839,743
+895,27,Wicklow County Council,1400,718,682
+896,28,Carlow County Council,633,329,304
+897,28,Cavan County Council,752,363,389
+898,28,Clare County Council,1187,607,580
+899,28,Cork City Council,3461,1749,1712
+900,28,Cork County Council,3066,1552,1514
+901,28,Donegal County Council,1475,761,714
+902,28,Dublin City Council,12020,6089,5931
+903,28,Dún Laoghaire Rathdown County Council,2869,1457,1412
+904,28,Fingal County Council,3597,1825,1772
+905,28,Galway City Council,1458,754,704
+906,28,Galway County Council,1554,770,784
+907,28,Ireland,58690,29788,28902
+908,28,Kerry County Council,1345,679,666
+909,28,Kildare County Council,2558,1332,1226
+910,28,Kilkenny County Council,1016,536,480
+911,28,Laois County Council,871,430,441
+912,28,Leitrim County Council,291,148,143
+913,28,Limerick City & County Council,2373,1220,1153
+914,28,Longford County Council,442,218,224
+915,28,Louth County Council,1498,759,739
+916,28,Mayo  County Council,1180,582,598
+917,28,Meath County Council,2096,1075,1021
+918,28,Monaghan County Council,588,279,309
+919,28,Offaly County Council,829,425,404
+920,28,Roscommon County Council,580,283,297
+921,28,Sligo County Council,615,305,310
+922,28,South Dublin County Council,3546,1805,1741
+923,28,Tipperary County Council,1576,767,809
+924,28,Waterford City & County Council,1262,655,607
+925,28,Westmeath County Council,972,501,471
+926,28,Wexford County Council,1537,797,740
+927,28,Wicklow County Council,1443,736,707
+928,29,Carlow County Council,713,360,353
+929,29,Cavan County Council,791,401,390
+930,29,Clare County Council,1188,583,605
+931,29,Cork City Council,3467,1750,1717
+932,29,Cork County Council,3242,1639,1603
+933,29,Donegal County Council,1536,782,754
+934,29,Dublin City Council,12132,6030,6102
+935,29,Dún Laoghaire Rathdown County Council,2897,1466,1431
+936,29,Fingal County Council,3797,1973,1824
+937,29,Galway City Council,1468,731,737
+938,29,Galway County Council,1712,865,847
+939,29,Ireland,60925,30936,29989
+940,29,Kerry County Council,1443,737,706
+941,29,Kildare County Council,2715,1386,1329
+942,29,Kilkenny County Council,1089,559,530
+943,29,Laois County Council,901,453,448
+944,29,Leitrim County Council,301,145,156
+945,29,Limerick City & County Council,2490,1260,1230
+946,29,Longford County Council,461,256,205
+947,29,Louth County Council,1505,797,708
+948,29,Mayo  County Council,1257,658,599
+949,29,Meath County Council,2169,1078,1091
+950,29,Monaghan County Council,674,344,330
+951,29,Offaly County Council,842,431,411
+952,29,Roscommon County Council,629,315,314
+953,29,Sligo County Council,707,380,327
+954,29,South Dublin County Council,3636,1850,1786
+955,29,Tipperary County Council,1620,797,823
+956,29,Waterford City & County Council,1320,698,622
+957,29,Westmeath County Council,1095,540,555
+958,29,Wexford County Council,1629,869,760
+959,29,Wicklow County Council,1499,803,696
+960,30,Carlow County Council,705,338,367
+961,30,Cavan County Council,841,425,416
+962,30,Clare County Council,1209,627,582
+963,30,Cork City Council,3437,1734,1703
+964,30,Cork County Council,3545,1873,1672
+965,30,Donegal County Council,1694,906,788
+966,30,Dublin City Council,12341,6178,6163
+967,30,Dún Laoghaire Rathdown County Council,3112,1601,1511
+968,30,Fingal County Council,3976,2088,1888
+969,30,Galway City Council,1402,725,677
+970,30,Galway County Council,1803,990,813
+971,30,Ireland,63699,32841,30858
+972,30,Kerry County Council,1591,799,792
+973,30,Kildare County Council,2860,1488,1372
+974,30,Kilkenny County Council,1065,552,513
+975,30,Laois County Council,987,517,470
+976,30,Leitrim County Council,336,172,164
+977,30,Limerick City & County Council,2515,1265,1250
+978,30,Longford County Council,550,287,263
+979,30,Louth County Council,1570,801,769
+980,30,Mayo  County Council,1353,696,657
+981,30,Meath County Council,2353,1256,1097
+982,30,Monaghan County Council,732,350,382
+983,30,Offaly County Council,940,493,447
+984,30,Roscommon County Council,675,360,315
+985,30,Sligo County Council,668,334,334
+986,30,South Dublin County Council,3821,2002,1819
+987,30,Tipperary County Council,1744,917,827
+988,30,Waterford City & County Council,1434,715,719
+989,30,Westmeath County Council,1098,575,523
+990,30,Wexford County Council,1817,940,877
+991,30,Wicklow County Council,1525,837,688
+992,31,Carlow County Council,739,390,349
+993,31,Cavan County Council,907,457,450
+994,31,Clare County Council,1331,708,623
+995,31,Cork City Council,3581,1814,1767
+996,31,Cork County Council,3695,1970,1725
+997,31,Donegal County Council,1723,892,831
+998,31,Dublin City Council,12366,6079,6287
+999,31,Dún Laoghaire Rathdown County Council,3065,1555,1510
+1000,31,Fingal County Council,4241,2180,2061
+1001,31,Galway City Council,1464,705,759
+1002,31,Galway County Council,1930,972,958
+1003,31,Ireland,65947,33710,32237
+1004,31,Kerry County Council,1585,813,772
+1005,31,Kildare County Council,2990,1594,1396
+1006,31,Kilkenny County Council,1213,614,599
+1007,31,Laois County Council,1021,512,509
+1008,31,Leitrim County Council,366,211,155
+1009,31,Limerick City & County Council,2522,1317,1205
+1010,31,Longford County Council,484,252,232
+1011,31,Louth County Council,1676,880,796
+1012,31,Mayo  County Council,1456,737,719
+1013,31,Meath County Council,2583,1331,1252
+1014,31,Monaghan County Council,738,383,355
+1015,31,Offaly County Council,925,482,443
+1016,31,Roscommon County Council,728,385,343
+1017,31,Sligo County Council,695,361,334
+1018,31,South Dublin County Council,3963,2065,1898
+1019,31,Tipperary County Council,1775,908,867
+1020,31,Waterford City & County Council,1461,749,712
+1021,31,Westmeath County Council,1192,590,602
+1022,31,Wexford County Council,1859,914,945
+1023,31,Wicklow County Council,1673,890,783
+1024,32,Carlow County Council,746,384,362
+1025,32,Cavan County Council,996,530,466
+1026,32,Clare County Council,1330,688,642
+1027,32,Cork City Council,3564,1837,1727
+1028,32,Cork County Council,3841,2050,1791
+1029,32,Donegal County Council,1863,936,927
+1030,32,Dublin City Council,12044,5964,6080
+1031,32,Dún Laoghaire Rathdown County Council,3165,1649,1516
+1032,32,Fingal County Council,4328,2240,2088
+1033,32,Galway City Council,1354,699,655
+1034,32,Galway County Council,1954,1047,907
+1035,32,Ireland,66795,34382,32413
+1036,32,Kerry County Council,1697,843,854
+1037,32,Kildare County Council,3013,1551,1462
+1038,32,Kilkenny County Council,1150,572,578
+1039,32,Laois County Council,1089,530,559
+1040,32,Leitrim County Council,380,217,163
+1041,32,Limerick City & County Council,2672,1356,1316
+1042,32,Longford County Council,538,271,267
+1043,32,Louth County Council,1655,873,782
+1044,32,Mayo  County Council,1430,763,667
+1045,32,Meath County Council,2681,1427,1254
+1046,32,Monaghan County Council,713,372,341
+1047,32,Offaly County Council,923,476,447
+1048,32,Roscommon County Council,736,355,381
+1049,32,Sligo County Council,742,381,361
+1050,32,South Dublin County Council,4048,2161,1887
+1051,32,Tipperary County Council,1814,947,867
+1052,32,Waterford City & County Council,1550,779,771
+1053,32,Westmeath County Council,1195,633,562
+1054,32,Wexford County Council,1882,976,906
+1055,32,Wicklow County Council,1702,875,827
+1056,33,Carlow County Council,750,384,366
+1057,33,Cavan County Council,955,489,466
+1058,33,Clare County Council,1338,695,643
+1059,33,Cork City Council,3338,1705,1633
+1060,33,Cork County Council,3933,2023,1910
+1061,33,Donegal County Council,1829,961,868
+1062,33,Dublin City Council,11434,5700,5734
+1063,33,Dún Laoghaire Rathdown County Council,3023,1581,1442
+1064,33,Fingal County Council,4596,2439,2157
+1065,33,Galway City Council,1222,628,594
+1066,33,Galway County Council,2096,1100,996
+1067,33,Ireland,66377,34489,31888
+1068,33,Kerry County Council,1674,919,755
+1069,33,Kildare County Council,3187,1665,1522
+1070,33,Kilkenny County Council,1131,568,563
+1071,33,Laois County Council,1121,583,538
+1072,33,Leitrim County Council,379,206,173
+1073,33,Limerick City & County Council,2623,1313,1310
+1074,33,Longford County Council,549,288,261
+1075,33,Louth County Council,1736,922,814
+1076,33,Mayo  County Council,1519,758,761
+1077,33,Meath County Council,2655,1402,1253
+1078,33,Monaghan County Council,701,401,300
+1079,33,Offaly County Council,934,490,444
+1080,33,Roscommon County Council,732,373,359
+1081,33,Sligo County Council,753,432,321
+1082,33,South Dublin County Council,4079,2184,1895
+1083,33,Tipperary County Council,1829,945,884
+1084,33,Waterford City & County Council,1462,776,686
+1085,33,Westmeath County Council,1189,607,582
+1086,33,Wexford County Council,1830,1009,821
+1087,33,Wicklow County Council,1780,943,837
+1088,34,Carlow County Council,774,414,360
+1089,34,Cavan County Council,988,513,475
+1090,34,Clare County Council,1455,741,714
+1091,34,Cork City Council,3410,1774,1636
+1092,34,Cork County Council,4254,2216,2038
+1093,34,Donegal County Council,2023,1077,946
+1094,34,Dublin City Council,11048,5545,5503
+1095,34,Dún Laoghaire Rathdown County Council,3044,1556,1488
+1096,34,Fingal County Council,4787,2599,2188
+1097,34,Galway City Council,1332,721,611
+1098,34,Galway County Council,2233,1177,1056
+1099,34,Ireland,69405,36284,33121
+1100,34,Kerry County Council,1724,907,817
+1101,34,Kildare County Council,3343,1780,1563
+1102,34,Kilkenny County Council,1230,636,594
+1103,34,Laois County Council,1179,631,548
+1104,34,Leitrim County Council,409,217,192
+1105,34,Limerick City & County Council,2738,1424,1314
+1106,34,Longford County Council,628,337,291
+1107,34,Louth County Council,1831,941,890
+1108,34,Mayo  County Council,1634,856,778
+1109,34,Meath County Council,2906,1556,1350
+1110,34,Monaghan County Council,839,417,422
+1111,34,Offaly County Council,1035,532,503
+1112,34,Roscommon County Council,782,399,383
+1113,34,Sligo County Council,786,416,370
+1114,34,South Dublin County Council,4370,2330,2040
+1115,34,Tipperary County Council,1963,1024,939
+1116,34,Waterford City & County Council,1557,846,711
+1117,34,Westmeath County Council,1238,663,575
+1118,34,Wexford County Council,2019,1058,961
+1119,34,Wicklow County Council,1846,981,865
+1120,35,Carlow County Council,833,446,387
+1121,35,Cavan County Council,1079,560,519
+1122,35,Clare County Council,1516,787,729
+1123,35,Cork City Council,3467,1780,1687
+1124,35,Cork County Council,4611,2430,2181
+1125,35,Donegal County Council,2016,1057,959
+1126,35,Dublin City Council,10932,5444,5488
+1127,35,Dún Laoghaire Rathdown County Council,3054,1548,1506
+1128,35,Fingal County Council,5012,2691,2321
+1129,35,Galway City Council,1277,667,610
+1130,35,Galway County Council,2431,1292,1139
+1131,35,Ireland,72635,37940,34695
+1132,35,Kerry County Council,1862,1002,860
+1133,35,Kildare County Council,3586,1864,1722
+1134,35,Kilkenny County Council,1375,741,634
+1135,35,Laois County Council,1353,698,655
+1136,35,Leitrim County Council,443,227,216
+1137,35,Limerick City & County Council,2872,1468,1404
+1138,35,Longford County Council,613,317,296
+1139,35,Louth County Council,1912,1044,868
+1140,35,Mayo  County Council,1692,871,821
+1141,35,Meath County Council,3156,1652,1504
+1142,35,Monaghan County Council,850,444,406
+1143,35,Offaly County Council,1074,528,546
+1144,35,Roscommon County Council,896,476,420
+1145,35,Sligo County Council,840,441,399
+1146,35,South Dublin County Council,4463,2409,2054
+1147,35,Tipperary County Council,2157,1175,982
+1148,35,Waterford City & County Council,1745,938,807
+1149,35,Westmeath County Council,1397,731,666
+1150,35,Wexford County Council,2138,1152,986
+1151,35,Wicklow County Council,1983,1060,923
+1152,36,Carlow County Council,835,438,397
+1153,36,Cavan County Council,1151,602,549
+1154,36,Clare County Council,1593,828,765
+1155,36,Cork City Council,3461,1760,1701
+1156,36,Cork County Council,4782,2584,2198
+1157,36,Donegal County Council,2112,1107,1005
+1158,36,Dublin City Council,10619,5218,5401
+1159,36,Dún Laoghaire Rathdown County Council,3188,1677,1511
+1160,36,Fingal County Council,5327,2843,2484
+1161,36,Galway City Council,1332,707,625
+1162,36,Galway County Council,2494,1301,1193
+1163,36,Ireland,74858,39030,35828
+1164,36,Kerry County Council,2024,1032,992
+1165,36,Kildare County Council,3748,2015,1733
+1166,36,Kilkenny County Council,1342,717,625
+1167,36,Laois County Council,1384,717,667
+1168,36,Leitrim County Council,451,240,211
+1169,36,Limerick City & County Council,3012,1593,1419
+1170,36,Longford County Council,678,347,331
+1171,36,Louth County Council,1980,1034,946
+1172,36,Mayo  County Council,1780,909,871
+1173,36,Meath County Council,3249,1723,1526
+1174,36,Monaghan County Council,894,473,421
+1175,36,Offaly County Council,1102,581,521
+1176,36,Roscommon County Council,924,459,465
+1177,36,Sligo County Council,935,491,444
+1178,36,South Dublin County Council,4843,2539,2304
+1179,36,Tipperary County Council,2146,1135,1011
+1180,36,Waterford City & County Council,1737,905,832
+1181,36,Westmeath County Council,1502,780,722
+1182,36,Wexford County Council,2131,1122,1009
+1183,36,Wicklow County Council,2102,1153,949
+1184,37,Carlow County Council,908,457,451
+1185,37,Cavan County Council,1182,604,578
+1186,37,Clare County Council,1711,923,788
+1187,37,Cork City Council,3631,1872,1759
+1188,37,Cork County Council,4966,2611,2355
+1189,37,Donegal County Council,2106,1115,991
+1190,37,Dublin City Council,10110,4902,5208
+1191,37,Dún Laoghaire Rathdown County Council,3237,1694,1543
+1192,37,Fingal County Council,5336,2808,2528
+1193,37,Galway City Council,1307,657,650
+1194,37,Galway County Council,2597,1354,1243
+1195,37,Ireland,75620,39193,36427
+1196,37,Kerry County Council,2070,1122,948
+1197,37,Kildare County Council,3846,2009,1837
+1198,37,Kilkenny County Council,1365,708,657
+1199,37,Laois County Council,1441,737,704
+1200,37,Leitrim County Council,445,234,211
+1201,37,Limerick City & County Council,3023,1555,1468
+1202,37,Longford County Council,620,345,275
+1203,37,Louth County Council,1922,1044,878
+1204,37,Mayo  County Council,1872,973,899
+1205,37,Meath County Council,3332,1731,1601
+1206,37,Monaghan County Council,924,452,472
+1207,37,Offaly County Council,1161,598,563
+1208,37,Roscommon County Council,949,518,431
+1209,37,Sligo County Council,938,515,423
+1210,37,South Dublin County Council,4868,2541,2327
+1211,37,Tipperary County Council,2159,1140,1019
+1212,37,Waterford City & County Council,1712,889,823
+1213,37,Westmeath County Council,1438,719,719
+1214,37,Wexford County Council,2177,1175,1002
+1215,37,Wicklow County Council,2267,1191,1076
+1216,38,Carlow County Council,948,483,465
+1217,38,Cavan County Council,1267,684,583
+1218,38,Clare County Council,1818,955,863
+1219,38,Cork City Council,3465,1737,1728
+1220,38,Cork County Council,5184,2723,2461
+1221,38,Donegal County Council,2155,1119,1036
+1222,38,Dublin City Council,10136,5053,5083
+1223,38,Dún Laoghaire Rathdown County Council,3445,1801,1644
+1224,38,Fingal County Council,5608,2926,2682
+1225,38,Galway City Council,1331,707,624
+1226,38,Galway County Council,2751,1485,1266
+1227,38,Ireland,78415,40902,37513
+1228,38,Kerry County Council,2253,1220,1033
+1229,38,Kildare County Council,4003,2114,1889
+1230,38,Kilkenny County Council,1486,803,683
+1231,38,Laois County Council,1538,820,718
+1232,38,Leitrim County Council,483,252,231
+1233,38,Limerick City & County Council,3115,1594,1521
+1234,38,Longford County Council,711,378,333
+1235,38,Louth County Council,2091,1127,964
+1236,38,Mayo  County Council,1855,963,892
+1237,38,Meath County Council,3457,1852,1605
+1238,38,Monaghan County Council,956,490,466
+1239,38,Offaly County Council,1175,611,564
+1240,38,Roscommon County Council,1005,513,492
+1241,38,Sligo County Council,1016,523,493
+1242,38,South Dublin County Council,4929,2511,2418
+1243,38,Tipperary County Council,2318,1194,1124
+1244,38,Waterford City & County Council,1805,954,851
+1245,38,Westmeath County Council,1451,794,657
+1246,38,Wexford County Council,2306,1239,1067
+1247,38,Wicklow County Council,2354,1277,1077
+1248,39,Carlow County Council,1006,553,453
+1249,39,Cavan County Council,1297,656,641
+1250,39,Clare County Council,1774,945,829
+1251,39,Cork City Council,3579,1858,1721
+1252,39,Cork County Council,5638,3007,2631
+1253,39,Donegal County Council,2358,1237,1121
+1254,39,Dublin City Council,9898,4939,4959
+1255,39,Dún Laoghaire Rathdown County Council,3545,1878,1667
+1256,39,Fingal County Council,5927,3147,2780
+1257,39,Galway City Council,1391,747,644
+1258,39,Galway County Council,2941,1534,1407
+1259,39,Ireland,81341,42592,38749
+1260,39,Kerry County Council,2251,1229,1022
+1261,39,Kildare County Council,4331,2246,2085
+1262,39,Kilkenny County Council,1588,832,756
+1263,39,Laois County Council,1601,839,762
+1264,39,Leitrim County Council,495,253,242
+1265,39,Limerick City & County Council,3230,1690,1540
+1266,39,Longford County Council,725,388,337
+1267,39,Louth County Council,2093,1092,1001
+1268,39,Mayo  County Council,1992,1033,959
+1269,39,Meath County Council,3610,1858,1752
+1270,39,Monaghan County Council,1043,543,500
+1271,39,Offaly County Council,1249,668,581
+1272,39,Roscommon County Council,979,509,470
+1273,39,Sligo County Council,1023,514,509
+1274,39,South Dublin County Council,5217,2797,2420
+1275,39,Tipperary County Council,2436,1300,1136
+1276,39,Waterford City & County Council,1828,977,851
+1277,39,Westmeath County Council,1515,757,758
+1278,39,Wexford County Council,2308,1230,1078
+1279,39,Wicklow County Council,2473,1336,1137
+1280,40,Carlow County Council,981,487,494
+1281,40,Cavan County Council,1263,630,633
+1282,40,Clare County Council,1906,999,907
+1283,40,Cork City Council,3629,1879,1750
+1284,40,Cork County Council,5802,3058,2744
+1285,40,Donegal County Council,2442,1293,1149
+1286,40,Dublin City Council,9770,4809,4961
+1287,40,Dún Laoghaire Rathdown County Council,3646,1910,1736
+1288,40,Fingal County Council,6104,3131,2973
+1289,40,Galway City Council,1394,687,707
+1290,40,Galway County Council,3095,1652,1443
+1291,40,Ireland,83444,43143,40301
+1292,40,Kerry County Council,2351,1239,1112
+1293,40,Kildare County Council,4366,2276,2090
+1294,40,Kilkenny County Council,1586,776,810
+1295,40,Laois County Council,1561,814,747
+1296,40,Leitrim County Council,516,271,245
+1297,40,Limerick City & County Council,3294,1657,1637
+1298,40,Longford County Council,805,409,396
+1299,40,Louth County Council,2289,1170,1119
+1300,40,Mayo  County Council,2069,1126,943
+1301,40,Meath County Council,3714,1927,1787
+1302,40,Monaghan County Council,995,518,477
+1303,40,Offaly County Council,1397,706,691
+1304,40,Roscommon County Council,1045,556,489
+1305,40,Sligo County Council,1029,538,491
+1306,40,South Dublin County Council,5397,2822,2575
+1307,40,Tipperary County Council,2523,1297,1226
+1308,40,Waterford City & County Council,1876,978,898
+1309,40,Westmeath County Council,1504,781,723
+1310,40,Wexford County Council,2519,1347,1172
+1311,40,Wicklow County Council,2576,1400,1176
+1312,41,Carlow County Council,1024,537,487
+1313,41,Cavan County Council,1332,702,630
+1314,41,Clare County Council,1983,1057,926
+1315,41,Cork City Council,3561,1834,1727
+1316,41,Cork County Council,5991,3058,2933
+1317,41,Donegal County Council,2487,1319,1168
+1318,41,Dublin City Council,9839,4926,4913
+1319,41,Dún Laoghaire Rathdown County Council,3739,1944,1795
+1320,41,Fingal County Council,6243,3200,3043
+1321,41,Galway City Council,1379,680,699
+1322,41,Galway County Council,3183,1596,1587
+1323,41,Ireland,85097,43696,41401
+1324,41,Kerry County Council,2393,1252,1141
+1325,41,Kildare County Council,4450,2267,2183
+1326,41,Kilkenny County Council,1670,883,787
+1327,41,Laois County Council,1629,830,799
+1328,41,Leitrim County Council,540,264,276
+1329,41,Limerick City & County Council,3345,1699,1646
+1330,41,Longford County Council,777,367,410
+1331,41,Louth County Council,2310,1210,1100
+1332,41,Mayo  County Council,2069,1119,950
+1333,41,Meath County Council,3818,1968,1850
+1334,41,Monaghan County Council,1072,523,549
+1335,41,Offaly County Council,1318,690,628
+1336,41,Roscommon County Council,1100,554,546
+1337,41,Sligo County Council,1055,546,509
+1338,41,South Dublin County Council,5402,2792,2610
+1339,41,Tipperary County Council,2580,1333,1247
+1340,41,Waterford City & County Council,1999,1039,960
+1341,41,Westmeath County Council,1561,802,759
+1342,41,Wexford County Council,2613,1320,1293
+1343,41,Wicklow County Council,2635,1385,1250
+1344,42,Carlow County Council,1045,517,528
+1345,42,Cavan County Council,1280,656,624
+1346,42,Clare County Council,2029,1060,969
+1347,42,Cork City Council,3435,1688,1747
+1348,42,Cork County Council,6116,3210,2906
+1349,42,Donegal County Council,2512,1288,1224
+1350,42,Dublin City Council,9325,4621,4704
+1351,42,Dún Laoghaire Rathdown County Council,3690,1878,1812
+1352,42,Fingal County Council,6350,3281,3069
+1353,42,Galway City Council,1415,723,692
+1354,42,Galway County Council,3155,1597,1558
+1355,42,Ireland,84981,43337,41644
+1356,42,Kerry County Council,2507,1259,1248
+1357,42,Kildare County Council,4410,2218,2192
+1358,42,Kilkenny County Council,1615,824,791
+1359,42,Laois County Council,1635,822,813
+1360,42,Leitrim County Council,538,289,249
+1361,42,Limerick City & County Council,3288,1675,1613
+1362,42,Longford County Council,822,438,384
+1363,42,Louth County Council,2322,1189,1133
+1364,42,Mayo  County Council,2021,1014,1007
+1365,42,Meath County Council,3899,1996,1903
+1366,42,Monaghan County Council,976,490,486
+1367,42,Offaly County Council,1333,708,625
+1368,42,Roscommon County Council,1079,541,538
+1369,42,Sligo County Council,1089,548,541
+1370,42,South Dublin County Council,5428,2802,2626
+1371,42,Tipperary County Council,2581,1327,1254
+1372,42,Waterford City & County Council,2094,1072,1022
+1373,42,Westmeath County Council,1539,761,778
+1374,42,Wexford County Council,2709,1407,1302
+1375,42,Wicklow County Council,2744,1438,1306
+1376,43,Carlow County Council,950,463,487
+1377,43,Cavan County Council,1243,611,632
+1378,43,Clare County Council,1881,989,892
+1379,43,Cork City Council,3287,1649,1638
+1380,43,Cork County Council,5909,3056,2853
+1381,43,Donegal County Council,2427,1241,1186
+1382,43,Dublin City Council,8851,4393,4458
+1383,43,Dún Laoghaire Rathdown County Council,3477,1812,1665
+1384,43,Fingal County Council,6013,3065,2948
+1385,43,Galway City Council,1266,621,645
+1386,43,Galway County Council,3028,1559,1469
+1387,43,Ireland,80683,41408,39275
+1388,43,Kerry County Council,2387,1242,1145
+1389,43,Kildare County Council,4235,2155,2080
+1390,43,Kilkenny County Council,1612,813,799
+1391,43,Laois County Council,1460,733,727
+1392,43,Leitrim County Council,526,280,246
+1393,43,Limerick City & County Council,3152,1609,1543
+1394,43,Longford County Council,744,360,384
+1395,43,Louth County Council,2096,1125,971
+1396,43,Mayo  County Council,1919,1000,919
+1397,43,Meath County Council,3773,2000,1773
+1398,43,Monaghan County Council,985,508,477
+1399,43,Offaly County Council,1236,664,572
+1400,43,Roscommon County Council,1007,535,472
+1401,43,Sligo County Council,1039,557,482
+1402,43,South Dublin County Council,5275,2720,2555
+1403,43,Tipperary County Council,2485,1250,1235
+1404,43,Waterford City & County Council,1983,975,1008
+1405,43,Westmeath County Council,1462,789,673
+1406,43,Wexford County Council,2445,1326,1119
+1407,43,Wicklow County Council,2530,1308,1222
+1408,44,Carlow County Council,907,459,448
+1409,44,Cavan County Council,1216,630,586
+1410,44,Clare County Council,1871,987,884
+1411,44,Cork City Council,3103,1568,1535
+1412,44,Cork County Council,5667,2889,2778
+1413,44,Donegal County Council,2426,1245,1181
+1414,44,Dublin City Council,8370,4160,4210
+1415,44,Dún Laoghaire Rathdown County Council,3246,1680,1566
+1416,44,Fingal County Council,5683,2976,2707
+1417,44,Galway City Council,1213,600,613
+1418,44,Galway County Council,3027,1578,1449
+1419,44,Ireland,77319,39379,37940
+1420,44,Kerry County Council,2349,1170,1179
+1421,44,Kildare County Council,3988,2017,1971
+1422,44,Kilkenny County Council,1597,797,800
+1423,44,Laois County Council,1467,755,712
+1424,44,Leitrim County Council,518,254,264
+1425,44,Limerick City & County Council,3054,1551,1503
+1426,44,Longford County Council,674,340,334
+1427,44,Louth County Council,2109,1107,1002
+1428,44,Mayo  County Council,1911,956,955
+1429,44,Meath County Council,3614,1866,1748
+1430,44,Monaghan County Council,938,473,465
+1431,44,Offaly County Council,1240,623,617
+1432,44,Roscommon County Council,981,503,478
+1433,44,Sligo County Council,981,475,506
+1434,44,South Dublin County Council,4623,2293,2330
+1435,44,Tipperary County Council,2382,1210,1172
+1436,44,Waterford City & County Council,1940,1010,930
+1437,44,Westmeath County Council,1394,715,679
+1438,44,Wexford County Council,2315,1201,1114
+1439,44,Wicklow County Council,2515,1291,1224
+1440,45,Carlow County Council,945,498,447
+1441,45,Cavan County Council,1125,587,538
+1442,45,Clare County Council,1876,940,936
+1443,45,Cork City Council,3078,1583,1495
+1444,45,Cork County Council,5719,2853,2866
+1445,45,Donegal County Council,2428,1235,1193
+1446,45,Dublin City Council,7914,3898,4016
+1447,45,Dún Laoghaire Rathdown County Council,3052,1609,1443
+1448,45,Fingal County Council,5650,2862,2788
+1449,45,Galway City Council,1215,631,584
+1450,45,Galway County Council,3038,1576,1462
+1451,45,Ireland,76216,38506,37710
+1452,45,Kerry County Council,2264,1117,1147
+1453,45,Kildare County Council,3966,2007,1959
+1454,45,Kilkenny County Council,1551,781,770
+1455,45,Laois County Council,1422,701,721
+1456,45,Leitrim County Council,506,239,267
+1457,45,Limerick City & County Council,3059,1493,1566
+1458,45,Longford County Council,756,391,365
+1459,45,Louth County Council,2031,1063,968
+1460,45,Mayo  County Council,1877,946,931
+1461,45,Meath County Council,3524,1805,1719
+1462,45,Monaghan County Council,969,477,492
+1463,45,Offaly County Council,1219,596,623
+1464,45,Roscommon County Council,951,470,481
+1465,45,Sligo County Council,1000,508,492
+1466,45,South Dublin County Council,4504,2282,2222
+1467,45,Tipperary County Council,2443,1206,1237
+1468,45,Waterford City & County Council,1919,998,921
+1469,45,Westmeath County Council,1377,676,701
+1470,45,Wexford County Council,2421,1255,1166
+1471,45,Wicklow County Council,2417,1223,1194
+1472,46,Carlow County Council,949,486,463
+1473,46,Cavan County Council,1152,565,587
+1474,46,Clare County Council,1952,1050,902
+1475,46,Cork City Council,3035,1515,1520
+1476,46,Cork County Council,5624,2841,2783
+1477,46,Donegal County Council,2428,1189,1239
+1478,46,Dublin City Council,7704,3846,3858
+1479,46,Dún Laoghaire Rathdown County Council,3152,1606,1546
+1480,46,Fingal County Council,5452,2771,2681
+1481,46,Galway City Council,1210,633,577
+1482,46,Galway County Council,2958,1494,1464
+1483,46,Ireland,75416,38127,37289
+1484,46,Kerry County Council,2273,1184,1089
+1485,46,Kildare County Council,3946,1989,1957
+1486,46,Kilkenny County Council,1620,813,807
+1487,46,Laois County Council,1376,711,665
+1488,46,Leitrim County Council,490,246,244
+1489,46,Limerick City & County Council,3023,1482,1541
+1490,46,Longford County Council,667,334,333
+1491,46,Louth County Council,2117,1062,1055
+1492,46,Mayo  County Council,1950,976,974
+1493,46,Meath County Council,3594,1824,1770
+1494,46,Monaghan County Council,935,458,477
+1495,46,Offaly County Council,1241,603,638
+1496,46,Roscommon County Council,1000,519,481
+1497,46,Sligo County Council,975,506,469
+1498,46,South Dublin County Council,4446,2301,2145
+1499,46,Tipperary County Council,2346,1152,1194
+1500,46,Waterford City & County Council,1799,921,878
+1501,46,Westmeath County Council,1305,661,644
+1502,46,Wexford County Council,2289,1152,1137
+1503,46,Wicklow County Council,2408,1237,1171
+1504,47,Carlow County Council,871,418,453
+1505,47,Cavan County Council,1158,570,588
+1506,47,Clare County Council,1795,913,882
+1507,47,Cork City Council,2969,1468,1501
+1508,47,Cork County Council,5651,2850,2801
+1509,47,Donegal County Council,2322,1203,1119
+1510,47,Dublin City Council,7408,3607,3801
+1511,47,Dún Laoghaire Rathdown County Council,3137,1627,1510
+1512,47,Fingal County Council,5484,2769,2715
+1513,47,Galway City Council,1141,572,569
+1514,47,Galway County Council,2896,1484,1412
+1515,47,Ireland,74524,37471,37053
+1516,47,Kerry County Council,2296,1145,1151
+1517,47,Kildare County Council,3857,1924,1933
+1518,47,Kilkenny County Council,1540,802,738
+1519,47,Laois County Council,1339,655,684
+1520,47,Leitrim County Council,493,249,244
+1521,47,Limerick City & County Council,2973,1468,1505
+1522,47,Longford County Council,681,326,355
+1523,47,Louth County Council,2031,1045,986
+1524,47,Mayo  County Council,1864,945,919
+1525,47,Meath County Council,3564,1786,1778
+1526,47,Monaghan County Council,942,487,455
+1527,47,Offaly County Council,1224,602,622
+1528,47,Roscommon County Council,1031,502,529
+1529,47,Sligo County Council,1023,515,508
+1530,47,South Dublin County Council,4247,2142,2105
+1531,47,Tipperary County Council,2500,1242,1258
+1532,47,Waterford City & County Council,1830,944,886
+1533,47,Westmeath County Council,1454,742,712
+1534,47,Wexford County Council,2345,1219,1126
+1535,47,Wicklow County Council,2458,1250,1208
+1536,48,Carlow County Council,841,430,411
+1537,48,Cavan County Council,1161,599,562
+1538,48,Clare County Council,1920,962,958
+1539,48,Cork City Council,2811,1417,1394
+1540,48,Cork County Council,5576,2756,2820
+1541,48,Donegal County Council,2354,1203,1151
+1542,48,Dublin City Council,7478,3737,3741
+1543,48,Dún Laoghaire Rathdown County Council,3184,1623,1561
+1544,48,Fingal County Council,5310,2696,2614
+1545,48,Galway City Council,1038,555,483
+1546,48,Galway County Council,2948,1484,1464
+1547,48,Ireland,73617,37145,36472
+1548,48,Kerry County Council,2228,1090,1138
+1549,48,Kildare County Council,3879,1949,1930
+1550,48,Kilkenny County Council,1561,765,796
+1551,48,Laois County Council,1368,703,665
+1552,48,Leitrim County Council,499,256,243
+1553,48,Limerick City & County Council,2898,1448,1450
+1554,48,Longford County Council,626,319,307
+1555,48,Louth County Council,2062,1052,1010
+1556,48,Mayo  County Council,1863,958,905
+1557,48,Meath County Council,3426,1734,1692
+1558,48,Monaghan County Council,892,426,466
+1559,48,Offaly County Council,1204,608,596
+1560,48,Roscommon County Council,992,484,508
+1561,48,Sligo County Council,945,479,466
+1562,48,South Dublin County Council,4243,2159,2084
+1563,48,Tipperary County Council,2392,1225,1167
+1564,48,Waterford City & County Council,1798,913,885
+1565,48,Westmeath County Council,1392,736,656
+1566,48,Wexford County Council,2313,1154,1159
+1567,48,Wicklow County Council,2415,1225,1190
+1568,49,Carlow County Council,946,493,453
+1569,49,Cavan County Council,1093,538,555
+1570,49,Clare County Council,1923,982,941
+1571,49,Cork City Council,2842,1376,1466
+1572,49,Cork County Council,5460,2769,2691
+1573,49,Donegal County Council,2397,1210,1187
+1574,49,Dublin City Council,7404,3703,3701
+1575,49,Dún Laoghaire Rathdown County Council,3159,1604,1555
+1576,49,Fingal County Council,5147,2585,2562
+1577,49,Galway City Council,1018,529,489
+1578,49,Galway County Council,2967,1504,1463
+1579,49,Ireland,73731,37081,36650
+1580,49,Kerry County Council,2284,1184,1100
+1581,49,Kildare County Council,3914,1993,1921
+1582,49,Kilkenny County Council,1614,798,816
+1583,49,Laois County Council,1319,658,661
+1584,49,Leitrim County Council,492,254,238
+1585,49,Limerick City & County Council,2923,1449,1474
+1586,49,Longford County Council,688,322,366
+1587,49,Louth County Council,2084,1059,1025
+1588,49,Mayo  County Council,1885,967,918
+1589,49,Meath County Council,3450,1699,1751
+1590,49,Monaghan County Council,911,440,471
+1591,49,Offaly County Council,1184,573,611
+1592,49,Roscommon County Council,957,455,502
+1593,49,Sligo County Council,981,533,448
+1594,49,South Dublin County Council,4193,2123,2070
+1595,49,Tipperary County Council,2505,1263,1242
+1596,49,Waterford City & County Council,1826,917,909
+1597,49,Westmeath County Council,1341,657,684
+1598,49,Wexford County Council,2413,1229,1184
+1599,49,Wicklow County Council,2411,1215,1196
+1600,50,Carlow County Council,897,454,443
+1601,50,Cavan County Council,1160,556,604
+1602,50,Clare County Council,1979,1033,946
+1603,50,Cork City Council,2894,1470,1424
+1604,50,Cork County Council,5363,2655,2708
+1605,50,Donegal County Council,2389,1204,1185
+1606,50,Dublin City Council,7474,3721,3753
+1607,50,Dún Laoghaire Rathdown County Council,3101,1607,1494
+1608,50,Fingal County Council,4904,2470,2434
+1609,50,Galway City Council,975,506,469
+1610,50,Galway County Council,2826,1434,1392
+1611,50,Ireland,72249,36199,36050
+1612,50,Kerry County Council,2261,1097,1164
+1613,50,Kildare County Council,3778,1867,1911
+1614,50,Kilkenny County Council,1503,777,726
+1615,50,Laois County Council,1339,647,692
+1616,50,Leitrim County Council,504,240,264
+1617,50,Limerick City & County Council,2867,1371,1496
+1618,50,Longford County Council,621,312,309
+1619,50,Louth County Council,2093,1043,1050
+1620,50,Mayo  County Council,1893,922,971
+1621,50,Meath County Council,3410,1710,1700
+1622,50,Monaghan County Council,879,418,461
+1623,50,Offaly County Council,1183,589,594
+1624,50,Roscommon County Council,990,502,488
+1625,50,Sligo County Council,911,487,424
+1626,50,South Dublin County Council,3895,1969,1926
+1627,50,Tipperary County Council,2305,1174,1131
+1628,50,Waterford City & County Council,1754,885,869
+1629,50,Westmeath County Council,1329,656,673
+1630,50,Wexford County Council,2437,1244,1193
+1631,50,Wicklow County Council,2335,1179,1156
+1632,51,Carlow County Council,815,436,379
+1633,51,Cavan County Council,1117,580,537
+1634,51,Clare County Council,1827,911,916
+1635,51,Cork City Council,2760,1388,1372
+1636,51,Cork County Council,5266,2582,2684
+1637,51,Donegal County Council,2301,1172,1129
+1638,51,Dublin City Council,7151,3584,3567
+1639,51,Dún Laoghaire Rathdown County Council,2983,1513,1470
+1640,51,Fingal County Council,4566,2314,2252
+1641,51,Galway City Council,997,499,498
+1642,51,Galway County Council,2845,1439,1406
+1643,51,Ireland,69951,35025,34926
+1644,51,Kerry County Council,2195,1075,1120
+1645,51,Kildare County Council,3539,1718,1821
+1646,51,Kilkenny County Council,1432,738,694
+1647,51,Laois County Council,1294,634,660
+1648,51,Leitrim County Council,485,260,225
+1649,51,Limerick City & County Council,2803,1390,1413
+1650,51,Longford County Council,658,330,328
+1651,51,Louth County Council,2028,1003,1025
+1652,51,Mayo  County Council,1888,933,955
+1653,51,Meath County Council,3182,1595,1587
+1654,51,Monaghan County Council,832,419,413
+1655,51,Offaly County Council,1130,593,537
+1656,51,Roscommon County Council,956,461,495
+1657,51,Sligo County Council,935,440,495
+1658,51,South Dublin County Council,3834,1940,1894
+1659,51,Tipperary County Council,2351,1177,1174
+1660,51,Waterford City & County Council,1776,909,867
+1661,51,Westmeath County Council,1321,667,654
+1662,51,Wexford County Council,2342,1160,1182
+1663,51,Wicklow County Council,2342,1165,1177
+1664,52,Carlow County Council,823,403,420
+1665,52,Cavan County Council,1110,553,557
+1666,52,Clare County Council,1895,976,919
+1667,52,Cork City Council,2732,1392,1340
+1668,52,Cork County Council,5071,2516,2555
+1669,52,Donegal County Council,2352,1157,1195
+1670,52,Dublin City Council,7116,3663,3453
+1671,52,Dún Laoghaire Rathdown County Council,2933,1524,1409
+1672,52,Fingal County Council,4300,2147,2153
+1673,52,Galway City Council,918,452,466
+1674,52,Galway County Council,2729,1369,1360
+1675,52,Ireland,68770,34414,34356
+1676,52,Kerry County Council,2306,1158,1148
+1677,52,Kildare County Council,3425,1676,1749
+1678,52,Kilkenny County Council,1409,667,742
+1679,52,Laois County Council,1268,612,656
+1680,52,Leitrim County Council,506,259,247
+1681,52,Limerick City & County Council,2795,1381,1414
+1682,52,Longford County Council,624,305,319
+1683,52,Louth County Council,1965,991,974
+1684,52,Mayo  County Council,1921,996,925
+1685,52,Meath County Council,3104,1510,1594
+1686,52,Monaghan County Council,856,400,456
+1687,52,Offaly County Council,1100,545,555
+1688,52,Roscommon County Council,991,478,513
+1689,52,Sligo County Council,942,479,463
+1690,52,South Dublin County Council,3698,1843,1855
+1691,52,Tipperary County Council,2277,1129,1148
+1692,52,Waterford City & County Council,1707,871,836
+1693,52,Westmeath County Council,1308,656,652
+1694,52,Wexford County Council,2335,1156,1179
+1695,52,Wicklow County Council,2254,1150,1104
+1696,53,Carlow County Council,785,385,400
+1697,53,Cavan County Council,1044,491,553
+1698,53,Clare County Council,1743,870,873
+1699,53,Cork City Council,2525,1262,1263
+1700,53,Cork County Council,4833,2381,2452
+1701,53,Donegal County Council,2284,1143,1141
+1702,53,Dublin City Council,6622,3291,3331
+1703,53,Dún Laoghaire Rathdown County Council,2826,1494,1332
+1704,53,Fingal County Council,4029,2016,2013
+1705,53,Galway City Council,903,479,424
+1706,53,Galway County Council,2592,1284,1308
+1707,53,Ireland,64815,32204,32611
+1708,53,Kerry County Council,2167,1068,1099
+1709,53,Kildare County Council,3217,1606,1611
+1710,53,Kilkenny County Council,1419,719,700
+1711,53,Laois County Council,1162,544,618
+1712,53,Leitrim County Council,477,234,243
+1713,53,Limerick City & County Council,2491,1206,1285
+1714,53,Longford County Council,600,304,296
+1715,53,Louth County Council,1878,920,958
+1716,53,Mayo  County Council,1848,968,880
+1717,53,Meath County Council,2879,1415,1464
+1718,53,Monaghan County Council,817,385,432
+1719,53,Offaly County Council,1067,521,546
+1720,53,Roscommon County Council,909,441,468
+1721,53,Sligo County Council,862,424,438
+1722,53,South Dublin County Council,3463,1730,1733
+1723,53,Tipperary County Council,2200,1064,1136
+1724,53,Waterford City & County Council,1696,815,881
+1725,53,Westmeath County Council,1272,627,645
+1726,53,Wexford County Council,2185,1086,1099
+1727,53,Wicklow County Council,2020,1031,989
+1728,54,Carlow County Council,805,382,423
+1729,54,Cavan County Council,1053,515,538
+1730,54,Clare County Council,1770,920,850
+1731,54,Cork City Council,2606,1301,1305
+1732,54,Cork County Council,4708,2383,2325
+1733,54,Donegal County Council,2309,1165,1144
+1734,54,Dublin City Council,6752,3363,3389
+1735,54,Dún Laoghaire Rathdown County Council,2788,1497,1291
+1736,54,Fingal County Council,3818,1936,1882
+1737,54,Galway City Council,871,453,418
+1738,54,Galway County Council,2607,1286,1321
+1739,54,Ireland,64218,32168,32050
+1740,54,Kerry County Council,2105,1053,1052
+1741,54,Kildare County Council,3132,1552,1580
+1742,54,Kilkenny County Council,1330,671,659
+1743,54,Laois County Council,1145,545,600
+1744,54,Leitrim County Council,490,246,244
+1745,54,Limerick City & County Council,2560,1253,1307
+1746,54,Longford County Council,602,287,315
+1747,54,Louth County Council,1830,919,911
+1748,54,Mayo  County Council,1789,870,919
+1749,54,Meath County Council,2846,1399,1447
+1750,54,Monaghan County Council,818,414,404
+1751,54,Offaly County Council,1101,522,579
+1752,54,Roscommon County Council,886,441,445
+1753,54,Sligo County Council,935,448,487
+1754,54,South Dublin County Council,3334,1685,1649
+1755,54,Tipperary County Council,2253,1129,1124
+1756,54,Waterford City & County Council,1611,805,806
+1757,54,Westmeath County Council,1223,618,605
+1758,54,Wexford County Council,2165,1107,1058
+1759,54,Wicklow County Council,1976,1003,973
+1760,55,Carlow County Council,804,392,412
+1761,55,Cavan County Council,1053,511,542
+1762,55,Clare County Council,1758,891,867
+1763,55,Cork City Council,2549,1271,1278
+1764,55,Cork County Council,4684,2229,2455
+1765,55,Donegal County Council,2208,1133,1075
+1766,55,Dublin City Council,6208,3133,3075
+1767,55,Dún Laoghaire Rathdown County Council,2883,1549,1334
+1768,55,Fingal County Council,3660,1855,1805
+1769,55,Galway City Council,879,471,408
+1770,55,Galway County Council,2540,1234,1306
+1771,55,Ireland,62916,31563,31353
+1772,55,Kerry County Council,2052,1045,1007
+1773,55,Kildare County Council,3042,1529,1513
+1774,55,Kilkenny County Council,1377,679,698
+1775,55,Laois County Council,1153,548,605
+1776,55,Leitrim County Council,475,233,242
+1777,55,Limerick City & County Council,2508,1210,1298
+1778,55,Longford County Council,590,315,275
+1779,55,Louth County Council,1687,833,854
+1780,55,Mayo  County Council,1841,938,903
+1781,55,Meath County Council,2690,1335,1355
+1782,55,Monaghan County Council,776,402,374
+1783,55,Offaly County Council,1013,519,494
+1784,55,Roscommon County Council,965,474,491
+1785,55,Sligo County Council,912,461,451
+1786,55,South Dublin County Council,3254,1632,1622
+1787,55,Tipperary County Council,2248,1139,1109
+1788,55,Waterford City & County Council,1686,814,872
+1789,55,Westmeath County Council,1199,608,591
+1790,55,Wexford County Council,2228,1147,1081
+1791,55,Wicklow County Council,1994,1033,961
+1792,56,Carlow County Council,795,418,377
+1793,56,Cavan County Council,1038,488,550
+1794,56,Clare County Council,1739,911,828
+1795,56,Cork City Council,2620,1334,1286
+1796,56,Cork County Council,4709,2345,2364
+1797,56,Donegal County Council,2198,1136,1062
+1798,56,Dublin City Council,6376,3208,3168
+1799,56,Dún Laoghaire Rathdown County Council,2691,1442,1249
+1800,56,Fingal County Council,3500,1805,1695
+1801,56,Galway City Council,883,445,438
+1802,56,Galway County Council,2448,1210,1238
+1803,56,Ireland,61963,31279,30684
+1804,56,Kerry County Council,2138,1096,1042
+1805,56,Kildare County Council,2987,1483,1504
+1806,56,Kilkenny County Council,1353,674,679
+1807,56,Laois County Council,1093,539,554
+1808,56,Leitrim County Council,457,233,224
+1809,56,Limerick City & County Council,2445,1218,1227
+1810,56,Longford County Council,539,256,283
+1811,56,Louth County Council,1752,875,877
+1812,56,Mayo  County Council,1858,970,888
+1813,56,Meath County Council,2619,1267,1352
+1814,56,Monaghan County Council,770,363,407
+1815,56,Offaly County Council,1065,530,535
+1816,56,Roscommon County Council,913,452,461
+1817,56,Sligo County Council,888,473,415
+1818,56,South Dublin County Council,3031,1548,1483
+1819,56,Tipperary County Council,2183,1053,1130
+1820,56,Waterford City & County Council,1649,821,828
+1821,56,Westmeath County Council,1130,588,542
+1822,56,Wexford County Council,2094,1081,1013
+1823,56,Wicklow County Council,2002,1017,985
+1824,57,Carlow County Council,740,385,355
+1825,57,Cavan County Council,991,476,515
+1826,57,Clare County Council,1648,824,824
+1827,57,Cork City Council,2648,1366,1282
+1828,57,Cork County Council,4643,2305,2338
+1829,57,Donegal County Council,2226,1131,1095
+1830,57,Dublin City Council,6439,3273,3166
+1831,57,Dún Laoghaire Rathdown County Council,2795,1500,1295
+1832,57,Fingal County Council,3445,1773,1672
+1833,57,Galway City Council,863,444,419
+1834,57,Galway County Council,2506,1244,1262
+1835,57,Ireland,62655,31764,30891
+1836,57,Kerry County Council,2112,1085,1027
+1837,57,Kildare County Council,2934,1470,1464
+1838,57,Kilkenny County Council,1375,709,666
+1839,57,Laois County Council,1054,532,522
+1840,57,Leitrim County Council,476,231,245
+1841,57,Limerick City & County Council,2548,1295,1253
+1842,57,Longford County Council,570,263,307
+1843,57,Louth County Council,1676,831,845
+1844,57,Mayo  County Council,1894,948,946
+1845,57,Meath County Council,2716,1291,1425
+1846,57,Monaghan County Council,798,408,390
+1847,57,Offaly County Council,1060,528,532
+1848,57,Roscommon County Council,887,432,455
+1849,57,Sligo County Council,868,448,420
+1850,57,South Dublin County Council,3246,1755,1491
+1851,57,Tipperary County Council,2233,1076,1157
+1852,57,Waterford City & County Council,1664,844,820
+1853,57,Westmeath County Council,1231,646,585
+1854,57,Wexford County Council,2258,1178,1080
+1855,57,Wicklow County Council,2111,1073,1038
+1856,58,Carlow County Council,724,368,356
+1857,58,Cavan County Council,964,496,468
+1858,58,Clare County Council,1689,848,841
+1859,58,Cork City Council,2686,1369,1317
+1860,58,Cork County Council,4406,2176,2230
+1861,58,Donegal County Council,2133,1055,1078
+1862,58,Dublin City Council,6309,3196,3113
+1863,58,Dún Laoghaire Rathdown County Council,2756,1478,1278
+1864,58,Fingal County Council,3305,1705,1600
+1865,58,Galway City Council,767,411,356
+1866,58,Galway County Council,2394,1193,1201
+1867,58,Ireland,60435,30660,29775
+1868,58,Kerry County Council,2053,1013,1040
+1869,58,Kildare County Council,2756,1407,1349
+1870,58,Kilkenny County Council,1268,642,626
+1871,58,Laois County Council,1070,541,529
+1872,58,Leitrim County Council,471,241,230
+1873,58,Limerick City & County Council,2428,1225,1203
+1874,58,Longford County Council,509,232,277
+1875,58,Louth County Council,1636,802,834
+1876,58,Mayo  County Council,1849,932,917
+1877,58,Meath County Council,2440,1242,1198
+1878,58,Monaghan County Council,773,394,379
+1879,58,Offaly County Council,1044,500,544
+1880,58,Roscommon County Council,960,462,498
+1881,58,Sligo County Council,944,480,464
+1882,58,South Dublin County Council,3089,1644,1445
+1883,58,Tipperary County Council,2195,1114,1081
+1884,58,Waterford City & County Council,1628,819,809
+1885,58,Westmeath County Council,1153,586,567
+1886,58,Wexford County Council,2138,1096,1042
+1887,58,Wicklow County Council,1898,993,905
+1888,59,Carlow County Council,743,360,383
+1889,59,Cavan County Council,995,480,515
+1890,59,Clare County Council,1620,823,797
+1891,59,Cork City Council,2639,1354,1285
+1892,59,Cork County Council,4275,2109,2166
+1893,59,Donegal County Council,1981,1019,962
+1894,59,Dublin City Council,6245,3205,3040
+1895,59,Dún Laoghaire Rathdown County Council,2784,1499,1285
+1896,59,Fingal County Council,3262,1669,1593
+1897,59,Galway City Council,775,424,351
+1898,59,Galway County Council,2308,1175,1133
+1899,59,Ireland,59196,30000,29196
+1900,59,Kerry County Council,2054,1023,1031
+1901,59,Kildare County Council,2581,1320,1261
+1902,59,Kilkenny County Council,1310,672,638
+1903,59,Laois County Council,967,466,501
+1904,59,Leitrim County Council,426,214,212
+1905,59,Limerick City & County Council,2399,1223,1176
+1906,59,Longford County Council,535,272,263
+1907,59,Louth County Council,1582,808,774
+1908,59,Mayo  County Council,1786,881,905
+1909,59,Meath County Council,2346,1139,1207
+1910,59,Monaghan County Council,774,401,373
+1911,59,Offaly County Council,956,467,489
+1912,59,Roscommon County Council,897,453,444
+1913,59,Sligo County Council,905,454,451
+1914,59,South Dublin County Council,3057,1587,1470
+1915,59,Tipperary County Council,2198,1074,1124
+1916,59,Waterford City & County Council,1655,818,837
+1917,59,Westmeath County Council,1167,574,593
+1918,59,Wexford County Council,2052,1067,985
+1919,59,Wicklow County Council,1922,970,952
+1920,60,Carlow County Council,673,317,356
+1921,60,Cavan County Council,946,468,478
+1922,60,Clare County Council,1540,757,783
+1923,60,Cork City Council,2604,1327,1277
+1924,60,Cork County Council,4086,1978,2108
+1925,60,Donegal County Council,2055,1092,963
+1926,60,Dublin City Council,6026,3065,2961
+1927,60,Dún Laoghaire Rathdown County Council,2658,1404,1254
+1928,60,Fingal County Council,3093,1591,1502
+1929,60,Galway City Council,760,384,376
+1930,60,Galway County Council,2272,1111,1161
+1931,60,Ireland,57518,29063,28455
+1932,60,Kerry County Council,2056,1055,1001
+1933,60,Kildare County Council,2511,1235,1276
+1934,60,Kilkenny County Council,1237,643,594
+1935,60,Laois County Council,965,459,506
+1936,60,Leitrim County Council,401,188,213
+1937,60,Limerick City & County Council,2390,1206,1184
+1938,60,Longford County Council,528,259,269
+1939,60,Louth County Council,1499,727,772
+1940,60,Mayo  County Council,1772,927,845
+1941,60,Meath County Council,2232,1121,1111
+1942,60,Monaghan County Council,752,378,374
+1943,60,Offaly County Council,982,519,463
+1944,60,Roscommon County Council,893,461,432
+1945,60,Sligo County Council,862,433,429
+1946,60,South Dublin County Council,2982,1547,1435
+1947,60,Tipperary County Council,2053,1055,998
+1948,60,Waterford City & County Council,1579,810,769
+1949,60,Westmeath County Council,1087,522,565
+1950,60,Wexford County Council,2050,1035,1015
+1951,60,Wicklow County Council,1974,989,985
+1952,61,Carlow County Council,684,350,334
+1953,61,Cavan County Council,925,461,464
+1954,61,Clare County Council,1493,737,756
+1955,61,Cork City Council,2466,1310,1156
+1956,61,Cork County Council,4157,2073,2084
+1957,61,Donegal County Council,1941,996,945
+1958,61,Dublin City Council,5804,2975,2829
+1959,61,Dún Laoghaire Rathdown County Council,2534,1344,1190
+1960,61,Fingal County Council,3027,1600,1427
+1961,61,Galway City Council,780,420,360
+1962,61,Galway County Council,2317,1175,1142
+1963,61,Ireland,56705,28856,27849
+1964,61,Kerry County Council,1963,990,973
+1965,61,Kildare County Council,2494,1257,1237
+1966,61,Kilkenny County Council,1260,661,599
+1967,61,Laois County Council,1005,509,496
+1968,61,Leitrim County Council,436,214,222
+1969,61,Limerick City & County Council,2291,1139,1152
+1970,61,Longford County Council,524,261,263
+1971,61,Louth County Council,1542,788,754
+1972,61,Mayo  County Council,1735,859,876
+1973,61,Meath County Council,2213,1085,1128
+1974,61,Monaghan County Council,767,383,384
+1975,61,Offaly County Council,1025,483,542
+1976,61,Roscommon County Council,910,437,473
+1977,61,Sligo County Council,910,469,441
+1978,61,South Dublin County Council,2980,1542,1438
+1979,61,Tipperary County Council,2127,1030,1097
+1980,61,Waterford City & County Council,1487,757,730
+1981,61,Westmeath County Council,1065,548,517
+1982,61,Wexford County Council,2064,1085,979
+1983,61,Wicklow County Council,1779,918,861
+1984,62,Carlow County Council,713,380,333
+1985,62,Cavan County Council,918,445,473
+1986,62,Clare County Council,1492,738,754
+1987,62,Cork City Council,2364,1244,1120
+1988,62,Cork County Council,3964,1916,2048
+1989,62,Donegal County Council,1977,1033,944
+1990,62,Dublin City Council,5647,2866,2781
+1991,62,Dún Laoghaire Rathdown County Council,2470,1282,1188
+1992,62,Fingal County Council,2939,1540,1399
+1993,62,Galway City Council,739,406,333
+1994,62,Galway County Council,2208,1086,1122
+1995,62,Ireland,55015,27899,27116
+1996,62,Kerry County Council,2010,974,1036
+1997,62,Kildare County Council,2282,1156,1126
+1998,62,Kilkenny County Council,1283,638,645
+1999,62,Laois County Council,922,444,478
+2000,62,Leitrim County Council,425,200,225
+2001,62,Limerick City & County Council,2311,1196,1115
+2002,62,Longford County Council,499,233,266
+2003,62,Louth County Council,1413,706,707
+2004,62,Mayo  County Council,1825,923,902
+2005,62,Meath County Council,2090,1065,1025
+2006,62,Monaghan County Council,753,347,406
+2007,62,Offaly County Council,974,489,485
+2008,62,Roscommon County Council,848,439,409
+2009,62,Sligo County Council,944,508,436
+2010,62,South Dublin County Council,2869,1559,1310
+2011,62,Tipperary County Council,1945,987,958
+2012,62,Waterford City & County Council,1495,735,760
+2013,62,Westmeath County Council,1051,517,534
+2014,62,Wexford County Council,1936,974,962
+2015,62,Wicklow County Council,1709,873,836
+2016,63,Carlow County Council,642,316,326
+2017,63,Cavan County Council,826,406,420
+2018,63,Clare County Council,1576,794,782
+2019,63,Cork City Council,2259,1167,1092
+2020,63,Cork County Council,3746,1861,1885
+2021,63,Donegal County Council,1908,982,926
+2022,63,Dublin City Council,5268,2642,2626
+2023,63,Dún Laoghaire Rathdown County Council,2369,1260,1109
+2024,63,Fingal County Council,2725,1423,1302
+2025,63,Galway City Council,708,380,328
+2026,63,Galway County Council,2087,1056,1031
+2027,63,Ireland,52196,26312,25884
+2028,63,Kerry County Council,1972,989,983
+2029,63,Kildare County Council,2236,1121,1115
+2030,63,Kilkenny County Council,1142,568,574
+2031,63,Laois County Council,914,432,482
+2032,63,Leitrim County Council,439,211,228
+2033,63,Limerick City & County Council,2195,1046,1149
+2034,63,Longford County Council,463,237,226
+2035,63,Louth County Council,1318,659,659
+2036,63,Mayo  County Council,1762,872,890
+2037,63,Meath County Council,1959,980,979
+2038,63,Monaghan County Council,667,365,302
+2039,63,Offaly County Council,875,443,432
+2040,63,Roscommon County Council,851,415,436
+2041,63,Sligo County Council,799,396,403
+2042,63,South Dublin County Council,2761,1452,1309
+2043,63,Tipperary County Council,1869,930,939
+2044,63,Waterford City & County Council,1393,694,699
+2045,63,Westmeath County Council,984,486,498
+2046,63,Wexford County Council,1847,918,929
+2047,63,Wicklow County Council,1636,811,825
+2048,64,Carlow County Council,610,323,287
+2049,64,Cavan County Council,842,412,430
+2050,64,Clare County Council,1431,719,712
+2051,64,Cork City Council,2216,1147,1069
+2052,64,Cork County Council,3690,1828,1862
+2053,64,Donegal County Council,1819,916,903
+2054,64,Dublin City Council,5080,2624,2456
+2055,64,Dún Laoghaire Rathdown County Council,2304,1212,1092
+2056,64,Fingal County Council,2551,1310,1241
+2057,64,Galway City Council,694,373,321
+2058,64,Galway County Council,2171,1075,1096
+2059,64,Ireland,51236,26109,25127
+2060,64,Kerry County Council,1954,1011,943
+2061,64,Kildare County Council,2115,1084,1031
+2062,64,Kilkenny County Council,1151,558,593
+2063,64,Laois County Council,869,419,450
+2064,64,Leitrim County Council,417,211,206
+2065,64,Limerick City & County Council,2241,1109,1132
+2066,64,Longford County Council,446,230,216
+2067,64,Louth County Council,1308,658,650
+2068,64,Mayo  County Council,1808,934,874
+2069,64,Meath County Council,1870,937,933
+2070,64,Monaghan County Council,715,352,363
+2071,64,Offaly County Council,811,405,406
+2072,64,Roscommon County Council,884,454,430
+2073,64,Sligo County Council,839,438,401
+2074,64,South Dublin County Council,2722,1445,1277
+2075,64,Tipperary County Council,1971,974,997
+2076,64,Waterford City & County Council,1335,692,643
+2077,64,Westmeath County Council,981,498,483
+2078,64,Wexford County Council,1789,919,870
+2079,64,Wicklow County Council,1602,842,760
+2080,65,Carlow County Council,628,306,322
+2081,65,Cavan County Council,863,406,457
+2082,65,Clare County Council,1341,650,691
+2083,65,Cork City Council,2125,1064,1061
+2084,65,Cork County Council,3555,1718,1837
+2085,65,Donegal County Council,1826,881,945
+2086,65,Dublin City Council,5001,2545,2456
+2087,65,Dún Laoghaire Rathdown County Council,2259,1226,1033
+2088,65,Fingal County Council,2556,1309,1247
+2089,65,Galway City Council,686,383,303
+2090,65,Galway County Council,2094,1039,1055
+2091,65,Ireland,50083,25183,24900
+2092,65,Kerry County Council,1901,926,975
+2093,65,Kildare County Council,2113,1040,1073
+2094,65,Kilkenny County Council,1054,543,511
+2095,65,Laois County Council,877,419,458
+2096,65,Leitrim County Council,438,222,216
+2097,65,Limerick City & County Council,2140,1089,1051
+2098,65,Longford County Council,475,261,214
+2099,65,Louth County Council,1305,678,627
+2100,65,Mayo  County Council,1709,856,853
+2101,65,Meath County Council,1809,916,893
+2102,65,Monaghan County Council,688,350,338
+2103,65,Offaly County Council,870,400,470
+2104,65,Roscommon County Council,827,404,423
+2105,65,Sligo County Council,843,433,410
+2106,65,South Dublin County Council,2647,1450,1197
+2107,65,Tipperary County Council,1875,915,960
+2108,65,Waterford City & County Council,1331,641,690
+2109,65,Westmeath County Council,990,488,502
+2110,65,Wexford County Council,1745,841,904
+2111,65,Wicklow County Council,1512,784,728
+2112,66,Carlow County Council,569,286,283
+2113,66,Cavan County Council,807,424,383
+2114,66,Clare County Council,1351,704,647
+2115,66,Cork City Council,1960,1045,915
+2116,66,Cork County Council,3560,1762,1798
+2117,66,Donegal County Council,1775,881,894
+2118,66,Dublin City Council,4694,2490,2204
+2119,66,Dún Laoghaire Rathdown County Council,2193,1166,1027
+2120,66,Fingal County Council,2390,1300,1090
+2121,66,Galway City Council,629,341,288
+2122,66,Galway County Council,2059,1025,1034
+2123,66,Ireland,48421,24662,23759
+2124,66,Kerry County Council,1826,890,936
+2125,66,Kildare County Council,2033,1065,968
+2126,66,Kilkenny County Council,1056,492,564
+2127,66,Laois County Council,793,389,404
+2128,66,Leitrim County Council,411,182,229
+2129,66,Limerick City & County Council,2142,1049,1093
+2130,66,Longford County Council,437,220,217
+2131,66,Louth County Council,1263,605,658
+2132,66,Mayo  County Council,1720,854,866
+2133,66,Meath County Council,1786,872,914
+2134,66,Monaghan County Council,651,293,358
+2135,66,Offaly County Council,849,436,413
+2136,66,Roscommon County Council,823,411,412
+2137,66,Sligo County Council,769,406,363
+2138,66,South Dublin County Council,2639,1435,1204
+2139,66,Tipperary County Council,1834,886,948
+2140,66,Waterford City & County Council,1271,652,619
+2141,66,Westmeath County Council,936,463,473
+2142,66,Wexford County Council,1661,844,817
+2143,66,Wicklow County Council,1534,794,740
+2144,67,Carlow County Council,562,291,271
+2145,67,Cavan County Council,793,374,419
+2146,67,Clare County Council,1361,689,672
+2147,67,Cork City Council,1928,952,976
+2148,67,Cork County Council,3466,1783,1683
+2149,67,Donegal County Council,1816,911,905
+2150,67,Dublin City Council,4593,2399,2194
+2151,67,Dún Laoghaire Rathdown County Council,2132,1158,974
+2152,67,Fingal County Council,2312,1237,1075
+2153,67,Galway City Council,642,329,313
+2154,67,Galway County Council,2018,999,1019
+2155,67,Ireland,48151,24524,23627
+2156,67,Kerry County Council,1889,944,945
+2157,67,Kildare County Council,2126,1098,1028
+2158,67,Kilkenny County Council,1070,524,546
+2159,67,Laois County Council,781,380,401
+2160,67,Leitrim County Council,422,228,194
+2161,67,Limerick City & County Council,2041,1043,998
+2162,67,Longford County Council,442,213,229
+2163,67,Louth County Council,1236,606,630
+2164,67,Mayo  County Council,1708,864,844
+2165,67,Meath County Council,1828,946,882
+2166,67,Monaghan County Council,638,313,325
+2167,67,Offaly County Council,795,389,406
+2168,67,Roscommon County Council,833,414,419
+2169,67,Sligo County Council,776,386,390
+2170,67,South Dublin County Council,2631,1403,1228
+2171,67,Tipperary County Council,1804,896,908
+2172,67,Waterford City & County Council,1348,656,692
+2173,67,Westmeath County Council,931,474,457
+2174,67,Wexford County Council,1741,847,894
+2175,67,Wicklow County Council,1488,778,710
+2176,68,Carlow County Council,565,274,291
+2177,68,Cavan County Council,774,393,381
+2178,68,Clare County Council,1285,648,637
+2179,68,Cork City Council,1830,944,886
+2180,68,Cork County Council,3418,1691,1727
+2181,68,Donegal County Council,1711,844,867
+2182,68,Dublin City Council,4204,2139,2065
+2183,68,Dún Laoghaire Rathdown County Council,2082,1112,970
+2184,68,Fingal County Council,2290,1213,1077
+2185,68,Galway City Council,653,366,287
+2186,68,Galway County Council,1851,925,926
+2187,68,Ireland,45520,23018,22502
+2188,68,Kerry County Council,1721,864,857
+2189,68,Kildare County Council,1861,952,909
+2190,68,Kilkenny County Council,1045,495,550
+2191,68,Laois County Council,749,381,368
+2192,68,Leitrim County Council,415,202,213
+2193,68,Limerick City & County Council,1929,931,998
+2194,68,Longford County Council,448,205,243
+2195,68,Louth County Council,1169,578,591
+2196,68,Mayo  County Council,1602,799,803
+2197,68,Meath County Council,1685,824,861
+2198,68,Monaghan County Council,631,309,322
+2199,68,Offaly County Council,736,399,337
+2200,68,Roscommon County Council,794,393,401
+2201,68,Sligo County Council,767,409,358
+2202,68,South Dublin County Council,2495,1350,1145
+2203,68,Tipperary County Council,1738,823,915
+2204,68,Waterford City & County Council,1203,585,618
+2205,68,Westmeath County Council,859,438,421
+2206,68,Wexford County Council,1642,857,785
+2207,68,Wicklow County Council,1368,675,693
+2208,69,Carlow County Council,587,311,276
+2209,69,Cavan County Council,722,364,358
+2210,69,Clare County Council,1289,616,673
+2211,69,Cork City Council,1871,983,888
+2212,69,Cork County Council,3437,1724,1713
+2213,69,Donegal County Council,1752,863,889
+2214,69,Dublin City Council,4391,2244,2147
+2215,69,Dún Laoghaire Rathdown County Council,2076,1100,976
+2216,69,Fingal County Council,2320,1193,1127
+2217,69,Galway City Council,678,354,324
+2218,69,Galway County Council,1931,941,990
+2219,69,Ireland,45969,23375,22594
+2220,69,Kerry County Council,1762,928,834
+2221,69,Kildare County Council,1930,983,947
+2222,69,Kilkenny County Council,1013,523,490
+2223,69,Laois County Council,759,377,382
+2224,69,Leitrim County Council,403,202,201
+2225,69,Limerick City & County Council,2050,1007,1043
+2226,69,Longford County Council,433,221,212
+2227,69,Louth County Council,1105,569,536
+2228,69,Mayo  County Council,1562,771,791
+2229,69,Meath County Council,1624,836,788
+2230,69,Monaghan County Council,617,296,321
+2231,69,Offaly County Council,763,354,409
+2232,69,Roscommon County Council,758,352,406
+2233,69,Sligo County Council,774,403,371
+2234,69,South Dublin County Council,2570,1416,1154
+2235,69,Tipperary County Council,1723,848,875
+2236,69,Waterford City & County Council,1194,616,578
+2237,69,Westmeath County Council,872,448,424
+2238,69,Wexford County Council,1628,810,818
+2239,69,Wicklow County Council,1375,722,653
+2240,70,Carlow County Council,522,245,277
+2241,70,Cavan County Council,678,330,348
+2242,70,Clare County Council,1230,626,604
+2243,70,Cork City Council,1791,901,890
+2244,70,Cork County Council,3167,1560,1607
+2245,70,Donegal County Council,1640,803,837
+2246,70,Dublin City Council,4105,2175,1930
+2247,70,Dún Laoghaire Rathdown County Council,1979,1052,927
+2248,70,Fingal County Council,2171,1140,1031
+2249,70,Galway City Council,553,291,262
+2250,70,Galway County Council,1763,900,863
+2251,70,Ireland,43150,21897,21253
+2252,70,Kerry County Council,1692,811,881
+2253,70,Kildare County Council,1711,866,845
+2254,70,Kilkenny County Council,962,491,471
+2255,70,Laois County Council,740,369,371
+2256,70,Leitrim County Council,370,179,191
+2257,70,Limerick City & County Council,1924,964,960
+2258,70,Longford County Council,433,189,244
+2259,70,Louth County Council,1089,544,545
+2260,70,Mayo  County Council,1498,771,727
+2261,70,Meath County Council,1492,766,726
+2262,70,Monaghan County Council,594,313,281
+2263,70,Offaly County Council,735,366,369
+2264,70,Roscommon County Council,756,361,395
+2265,70,Sligo County Council,690,357,333
+2266,70,South Dublin County Council,2475,1327,1148
+2267,70,Tipperary County Council,1637,832,805
+2268,70,Waterford City & County Council,1150,578,572
+2269,70,Westmeath County Council,765,374,391
+2270,70,Wexford County Council,1528,740,788
+2271,70,Wicklow County Council,1310,676,634
+2272,71,Carlow County Council,497,259,238
+2273,71,Cavan County Council,680,340,340
+2274,71,Clare County Council,1191,595,596
+2275,71,Cork City Council,1722,909,813
+2276,71,Cork County Council,3086,1568,1518
+2277,71,Donegal County Council,1626,854,772
+2278,71,Dublin City Council,3905,2042,1863
+2279,71,Dún Laoghaire Rathdown County Council,1877,1016,861
+2280,71,Fingal County Council,1961,1008,953
+2281,71,Galway City Council,550,302,248
+2282,71,Galway County Council,1762,907,855
+2283,71,Ireland,41685,21236,20449
+2284,71,Kerry County Council,1652,814,838
+2285,71,Kildare County Council,1682,858,824
+2286,71,Kilkenny County Council,836,426,410
+2287,71,Laois County Council,658,305,353
+2288,71,Leitrim County Council,373,173,200
+2289,71,Limerick City & County Council,1849,941,908
+2290,71,Longford County Council,390,191,199
+2291,71,Louth County Council,1030,542,488
+2292,71,Mayo  County Council,1582,777,805
+2293,71,Meath County Council,1559,792,767
+2294,71,Monaghan County Council,556,265,291
+2295,71,Offaly County Council,710,353,357
+2296,71,Roscommon County Council,676,321,355
+2297,71,Sligo County Council,735,349,386
+2298,71,South Dublin County Council,2419,1307,1112
+2299,71,Tipperary County Council,1531,751,780
+2300,71,Waterford City & County Council,1100,553,547
+2301,71,Westmeath County Council,735,361,374
+2302,71,Wexford County Council,1484,717,767
+2303,71,Wicklow County Council,1271,640,631
+2304,72,Carlow County Council,526,278,248
+2305,72,Cavan County Council,689,326,363
+2306,72,Clare County Council,1241,636,605
+2307,72,Cork City Council,1718,874,844
+2308,72,Cork County Council,2931,1449,1482
+2309,72,Donegal County Council,1518,755,763
+2310,72,Dublin City Council,3853,2032,1821
+2311,72,Dún Laoghaire Rathdown County Council,1879,1076,803
+2312,72,Fingal County Council,2066,1107,959
+2313,72,Galway City Council,521,297,224
+2314,72,Galway County Council,1673,821,852
+2315,72,Ireland,41124,21159,19965
+2316,72,Kerry County Council,1569,787,782
+2317,72,Kildare County Council,1666,881,785
+2318,72,Kilkenny County Council,920,449,471
+2319,72,Laois County Council,611,296,315
+2320,72,Leitrim County Council,366,175,191
+2321,72,Limerick City & County Council,1810,924,886
+2322,72,Longford County Council,419,217,202
+2323,72,Louth County Council,1050,527,523
+2324,72,Mayo  County Council,1507,762,745
+2325,72,Meath County Council,1478,735,743
+2326,72,Monaghan County Council,585,294,291
+2327,72,Offaly County Council,697,376,321
+2328,72,Roscommon County Council,669,378,291
+2329,72,Sligo County Council,686,341,345
+2330,72,South Dublin County Council,2358,1251,1107
+2331,72,Tipperary County Council,1530,741,789
+2332,72,Waterford City & County Council,1076,571,505
+2333,72,Westmeath County Council,741,374,367
+2334,72,Wexford County Council,1498,751,747
+2335,72,Wicklow County Council,1273,678,595
+2336,73,Carlow County Council,461,228,233
+2337,73,Cavan County Council,629,307,322
+2338,73,Clare County Council,1113,571,542
+2339,73,Cork City Council,1601,842,759
+2340,73,Cork County Council,2923,1491,1432
+2341,73,Donegal County Council,1522,767,755
+2342,73,Dublin City Council,3788,2057,1731
+2343,73,Dún Laoghaire Rathdown County Council,1796,970,826
+2344,73,Fingal County Council,1941,1053,888
+2345,73,Galway City Council,547,285,262
+2346,73,Galway County Council,1639,787,852
+2347,73,Ireland,39255,20134,19121
+2348,73,Kerry County Council,1529,769,760
+2349,73,Kildare County Council,1584,811,773
+2350,73,Kilkenny County Council,831,410,421
+2351,73,Laois County Council,558,281,277
+2352,73,Leitrim County Council,295,140,155
+2353,73,Limerick City & County Council,1722,829,893
+2354,73,Longford County Council,375,182,193
+2355,73,Louth County Council,980,518,462
+2356,73,Mayo  County Council,1365,666,699
+2357,73,Meath County Council,1460,753,707
+2358,73,Monaghan County Council,536,261,275
+2359,73,Offaly County Council,660,332,328
+2360,73,Roscommon County Council,617,298,319
+2361,73,Sligo County Council,667,322,345
+2362,73,South Dublin County Council,2139,1145,994
+2363,73,Tipperary County Council,1479,755,724
+2364,73,Waterford City & County Council,1068,559,509
+2365,73,Westmeath County Council,743,356,387
+2366,73,Wexford County Council,1403,747,656
+2367,73,Wicklow County Council,1284,642,642
+2368,74,Carlow County Council,475,229,246
+2369,74,Cavan County Council,596,288,308
+2370,74,Clare County Council,1076,536,540
+2371,74,Cork City Council,1572,859,713
+2372,74,Cork County Council,2770,1357,1413
+2373,74,Donegal County Council,1465,715,750
+2374,74,Dublin City Council,3632,1922,1710
+2375,74,Dún Laoghaire Rathdown County Council,1814,989,825
+2376,74,Fingal County Council,1821,967,854
+2377,74,Galway City Council,502,279,223
+2378,74,Galway County Council,1570,751,819
+2379,74,Ireland,37670,19177,18493
+2380,74,Kerry County Council,1481,723,758
+2381,74,Kildare County Council,1494,766,728
+2382,74,Kilkenny County Council,860,383,477
+2383,74,Laois County Council,567,278,289
+2384,74,Leitrim County Council,313,172,141
+2385,74,Limerick City & County Council,1658,873,785
+2386,74,Longford County Council,371,179,192
+2387,74,Louth County Council,1006,538,468
+2388,74,Mayo  County Council,1349,626,723
+2389,74,Meath County Council,1329,682,647
+2390,74,Monaghan County Council,498,256,242
+2391,74,Offaly County Council,637,309,328
+2392,74,Roscommon County Council,625,307,318
+2393,74,Sligo County Council,642,329,313
+2394,74,South Dublin County Council,1973,1008,965
+2395,74,Tipperary County Council,1459,759,700
+2396,74,Waterford City & County Council,1000,500,500
+2397,74,Westmeath County Council,686,373,313
+2398,74,Wexford County Council,1303,649,654
+2399,74,Wicklow County Council,1126,575,551
+2400,75,Carlow County Council,404,197,207
+2401,75,Cavan County Council,582,295,287
+2402,75,Clare County Council,1058,551,507
+2403,75,Cork City Council,1518,766,752
+2404,75,Cork County Council,2620,1303,1317
+2405,75,Donegal County Council,1407,675,732
+2406,75,Dublin City Council,3409,1789,1620
+2407,75,Dún Laoghaire Rathdown County Council,1836,1043,793
+2408,75,Fingal County Council,1732,939,793
+2409,75,Galway City Council,479,255,224
+2410,75,Galway County Council,1443,712,731
+2411,75,Ireland,35767,18294,17473
+2412,75,Kerry County Council,1418,713,705
+2413,75,Kildare County Council,1456,721,735
+2414,75,Kilkenny County Council,769,377,392
+2415,75,Laois County Council,579,304,275
+2416,75,Leitrim County Council,287,133,154
+2417,75,Limerick City & County Council,1548,810,738
+2418,75,Longford County Council,344,180,164
+2419,75,Louth County Council,916,476,440
+2420,75,Mayo  County Council,1271,588,683
+2421,75,Meath County Council,1250,629,621
+2422,75,Monaghan County Council,492,239,253
+2423,75,Offaly County Council,606,317,289
+2424,75,Roscommon County Council,573,289,284
+2425,75,Sligo County Council,583,313,270
+2426,75,South Dublin County Council,1803,978,825
+2427,75,Tipperary County Council,1297,671,626
+2428,75,Waterford City & County Council,1059,513,546
+2429,75,Westmeath County Council,634,344,290
+2430,75,Wexford County Council,1280,636,644
+2431,75,Wicklow County Council,1114,538,576
+2432,76,Carlow County Council,412,211,201
+2433,76,Cavan County Council,514,260,254
+2434,76,Clare County Council,976,498,478
+2435,76,Cork City Council,1483,786,697
+2436,76,Cork County Council,2446,1297,1149
+2437,76,Donegal County Council,1344,681,663
+2438,76,Dublin City Council,3195,1719,1476
+2439,76,Dún Laoghaire Rathdown County Council,1703,946,757
+2440,76,Fingal County Council,1660,879,781
+2441,76,Galway City Council,504,276,228
+2442,76,Galway County Council,1341,664,677
+2443,76,Ireland,33759,17665,16094
+2444,76,Kerry County Council,1351,665,686
+2445,76,Kildare County Council,1245,592,653
+2446,76,Kilkenny County Council,725,410,315
+2447,76,Laois County Council,539,288,251
+2448,76,Leitrim County Council,279,139,140
+2449,76,Limerick City & County Council,1462,770,692
+2450,76,Longford County Council,359,187,172
+2451,76,Louth County Council,921,506,415
+2452,76,Mayo  County Council,1150,573,577
+2453,76,Meath County Council,1174,621,553
+2454,76,Monaghan County Council,464,250,214
+2455,76,Offaly County Council,562,290,272
+2456,76,Roscommon County Council,592,295,297
+2457,76,Sligo County Council,562,292,270
+2458,76,South Dublin County Council,1736,908,828
+2459,76,Tipperary County Council,1301,674,627
+2460,76,Waterford City & County Council,938,511,427
+2461,76,Westmeath County Council,586,300,286
+2462,76,Wexford County Council,1188,625,563
+2463,76,Wicklow County Council,1047,552,495
+2464,77,Carlow County Council,372,188,184
+2465,77,Cavan County Council,482,258,224
+2466,77,Clare County Council,894,452,442
+2467,77,Cork City Council,1358,729,629
+2468,77,Cork County Council,2290,1189,1101
+2469,77,Donegal County Council,1179,585,594
+2470,77,Dublin City Council,2943,1633,1310
+2471,77,Dún Laoghaire Rathdown County Council,1604,888,716
+2472,77,Fingal County Council,1475,783,692
+2473,77,Galway City Council,425,246,179
+2474,77,Galway County Council,1198,601,597
+2475,77,Ireland,30572,15971,14601
+2476,77,Kerry County Council,1189,596,593
+2477,77,Kildare County Council,1181,601,580
+2478,77,Kilkenny County Council,697,337,360
+2479,77,Laois County Council,452,217,235
+2480,77,Leitrim County Council,260,123,137
+2481,77,Limerick City & County Council,1324,715,609
+2482,77,Longford County Council,296,160,136
+2483,77,Louth County Council,775,430,345
+2484,77,Mayo  County Council,1044,532,512
+2485,77,Meath County Council,1067,543,524
+2486,77,Monaghan County Council,377,191,186
+2487,77,Offaly County Council,496,248,248
+2488,77,Roscommon County Council,466,229,237
+2489,77,Sligo County Council,511,277,234
+2490,77,South Dublin County Council,1509,792,717
+2491,77,Tipperary County Council,1211,630,581
+2492,77,Waterford City & County Council,835,422,413
+2493,77,Westmeath County Council,598,308,290
+2494,77,Wexford County Council,1090,567,523
+2495,77,Wicklow County Council,974,501,473
+2496,78,Carlow County Council,312,156,156
+2497,78,Cavan County Council,433,217,216
+2498,78,Clare County Council,793,377,416
+2499,78,Cork City Council,1197,667,530
+2500,78,Cork County Council,1965,994,971
+2501,78,Donegal County Council,1115,562,553
+2502,78,Dublin City Council,2846,1581,1265
+2503,78,Dún Laoghaire Rathdown County Council,1551,867,684
+2504,78,Fingal County Council,1292,676,616
+2505,78,Galway City Council,387,222,165
+2506,78,Galway County Council,1125,558,567
+2507,78,Ireland,28058,14666,13392
+2508,78,Kerry County Council,1077,557,520
+2509,78,Kildare County Council,1040,534,506
+2510,78,Kilkenny County Council,610,307,303
+2511,78,Laois County Council,443,225,218
+2512,78,Leitrim County Council,232,122,110
+2513,78,Limerick City & County Council,1217,633,584
+2514,78,Longford County Council,261,121,140
+2515,78,Louth County Council,797,408,389
+2516,78,Mayo  County Council,952,469,483
+2517,78,Meath County Council,992,506,486
+2518,78,Monaghan County Council,361,179,182
+2519,78,Offaly County Council,439,231,208
+2520,78,Roscommon County Council,461,231,230
+2521,78,Sligo County Council,452,234,218
+2522,78,South Dublin County Council,1393,782,611
+2523,78,Tipperary County Council,1043,523,520
+2524,78,Waterford City & County Council,761,411,350
+2525,78,Westmeath County Council,519,271,248
+2526,78,Wexford County Council,1056,547,509
+2527,78,Wicklow County Council,936,498,438
+2528,79,Carlow County Council,339,171,168
+2529,79,Cavan County Council,388,191,197
+2530,79,Clare County Council,693,379,314
+2531,79,Cork City Council,1142,665,477
+2532,79,Cork County Council,1833,982,851
+2533,79,Donegal County Council,991,489,502
+2534,79,Dublin City Council,2774,1554,1220
+2535,79,Dún Laoghaire Rathdown County Council,1448,793,655
+2536,79,Fingal County Council,1258,692,566
+2537,79,Galway City Council,363,208,155
+2538,79,Galway County Council,1026,527,499
+2539,79,Ireland,26104,13938,12166
+2540,79,Kerry County Council,1017,517,500
+2541,79,Kildare County Council,981,512,469
+2542,79,Kilkenny County Council,597,327,270
+2543,79,Laois County Council,390,212,178
+2544,79,Leitrim County Council,212,112,100
+2545,79,Limerick City & County Council,1209,650,559
+2546,79,Longford County Council,235,126,109
+2547,79,Louth County Council,665,374,291
+2548,79,Mayo  County Council,884,456,428
+2549,79,Meath County Council,865,473,392
+2550,79,Monaghan County Council,357,158,199
+2551,79,Offaly County Council,442,229,213
+2552,79,Roscommon County Council,422,203,219
+2553,79,Sligo County Council,457,235,222
+2554,79,South Dublin County Council,1205,670,535
+2555,79,Tipperary County Council,1010,524,486
+2556,79,Waterford City & County Council,699,350,349
+2557,79,Westmeath County Council,478,272,206
+2558,79,Wexford County Council,912,467,445
+2559,79,Wicklow County Council,812,420,392
+2560,80,Carlow County Council,279,163,116
+2561,80,Cavan County Council,332,157,175
+2562,80,Clare County Council,594,299,295
+2563,80,Cork City Council,1103,587,516
+2564,80,Cork County Council,1669,879,790
+2565,80,Donegal County Council,902,446,456
+2566,80,Dublin City Council,2408,1374,1034
+2567,80,Dún Laoghaire Rathdown County Council,1410,819,591
+2568,80,Fingal County Council,1011,533,478
+2569,80,Galway City Council,376,226,150
+2570,80,Galway County Council,998,499,499
+2571,80,Ireland,22847,12173,10674
+2572,80,Kerry County Council,818,446,372
+2573,80,Kildare County Council,778,405,373
+2574,80,Kilkenny County Council,514,265,249
+2575,80,Laois County Council,341,186,155
+2576,80,Leitrim County Council,159,77,82
+2577,80,Limerick City & County Council,1001,570,431
+2578,80,Longford County Council,207,115,92
+2579,80,Louth County Council,572,300,272
+2580,80,Mayo  County Council,799,392,407
+2581,80,Meath County Council,802,430,372
+2582,80,Monaghan County Council,255,138,117
+2583,80,Offaly County Council,360,202,158
+2584,80,Roscommon County Council,362,191,171
+2585,80,Sligo County Council,379,203,176
+2586,80,South Dublin County Council,1022,550,472
+2587,80,Tipperary County Council,804,421,383
+2588,80,Waterford City & County Council,656,335,321
+2589,80,Westmeath County Council,397,195,202
+2590,80,Wexford County Council,833,398,435
+2591,80,Wicklow County Council,706,372,334
+2592,81,Carlow County Council,265,148,117
+2593,81,Cavan County Council,319,152,167
+2594,81,Clare County Council,583,312,271
+2595,81,Cork City Council,943,522,421
+2596,81,Cork County Council,1407,773,634
+2597,81,Donegal County Council,840,441,399
+2598,81,Dublin City Council,2254,1332,922
+2599,81,Dún Laoghaire Rathdown County Council,1240,712,528
+2600,81,Fingal County Council,919,499,420
+2601,81,Galway City Council,250,145,105
+2602,81,Galway County Council,865,424,441
+2603,81,Ireland,20661,11191,9470
+2604,81,Kerry County Council,783,388,395
+2605,81,Kildare County Council,673,372,301
+2606,81,Kilkenny County Council,463,234,229
+2607,81,Laois County Council,304,158,146
+2608,81,Leitrim County Council,150,80,70
+2609,81,Limerick City & County Council,888,467,421
+2610,81,Longford County Council,179,87,92
+2611,81,Louth County Council,589,325,264
+2612,81,Mayo  County Council,740,391,349
+2613,81,Meath County Council,674,348,326
+2614,81,Monaghan County Council,251,151,100
+2615,81,Offaly County Council,309,163,146
+2616,81,Roscommon County Council,335,184,151
+2617,81,Sligo County Council,340,177,163
+2618,81,South Dublin County Council,992,558,434
+2619,81,Tipperary County Council,775,420,355
+2620,81,Waterford City & County Council,585,309,276
+2621,81,Westmeath County Council,380,193,187
+2622,81,Wexford County Council,763,396,367
+2623,81,Wicklow County Council,603,330,273
+2624,82,Carlow County Council,240,131,109
+2625,82,Cavan County Council,273,146,127
+2626,82,Clare County Council,526,287,239
+2627,82,Cork City Council,963,570,393
+2628,82,Cork County Council,1379,757,622
+2629,82,Donegal County Council,744,379,365
+2630,82,Dublin City Council,2287,1368,919
+2631,82,Dún Laoghaire Rathdown County Council,1229,666,563
+2632,82,Fingal County Council,848,438,410
+2633,82,Galway City Council,279,179,100
+2634,82,Galway County Council,804,409,395
+2635,82,Ireland,19538,10759,8779
+2636,82,Kerry County Council,758,418,340
+2637,82,Kildare County Council,636,362,274
+2638,82,Kilkenny County Council,399,225,174
+2639,82,Laois County Council,269,148,121
+2640,82,Leitrim County Council,169,81,88
+2641,82,Limerick City & County Council,846,466,380
+2642,82,Longford County Council,164,84,80
+2643,82,Louth County Council,512,289,223
+2644,82,Mayo  County Council,641,352,289
+2645,82,Meath County Council,617,324,293
+2646,82,Monaghan County Council,267,144,123
+2647,82,Offaly County Council,319,160,159
+2648,82,Roscommon County Council,322,175,147
+2649,82,Sligo County Council,298,160,138
+2650,82,South Dublin County Council,901,491,410
+2651,82,Tipperary County Council,749,416,333
+2652,82,Waterford City & County Council,502,256,246
+2653,82,Westmeath County Council,328,187,141
+2654,82,Wexford County Council,670,358,312
+2655,82,Wicklow County Council,599,333,266
+2656,83,Carlow County Council,203,102,101
+2657,83,Cavan County Council,280,144,136
+2658,83,Clare County Council,476,254,222
+2659,83,Cork City Council,844,512,332
+2660,83,Cork County Council,1179,651,528
+2661,83,Donegal County Council,707,367,340
+2662,83,Dublin City Council,2088,1242,846
+2663,83,Dún Laoghaire Rathdown County Council,1141,679,462
+2664,83,Fingal County Council,707,395,312
+2665,83,Galway City Council,277,160,117
+2666,83,Galway County Council,770,405,365
+2667,83,Ireland,17885,9985,7900
+2668,83,Kerry County Council,615,345,270
+2669,83,Kildare County Council,562,332,230
+2670,83,Kilkenny County Council,387,214,173
+2671,83,Laois County Council,251,136,115
+2672,83,Leitrim County Council,163,90,73
+2673,83,Limerick City & County Council,771,407,364
+2674,83,Longford County Council,143,75,68
+2675,83,Louth County Council,461,246,215
+2676,83,Mayo  County Council,621,346,275
+2677,83,Meath County Council,567,303,264
+2678,83,Monaghan County Council,239,135,104
+2679,83,Offaly County Council,313,179,134
+2680,83,Roscommon County Council,317,167,150
+2681,83,Sligo County Council,298,165,133
+2682,83,South Dublin County Council,798,455,343
+2683,83,Tipperary County Council,678,374,304
+2684,83,Waterford City & County Council,501,268,233
+2685,83,Westmeath County Council,346,200,146
+2686,83,Wexford County Council,651,355,296
+2687,83,Wicklow County Council,531,282,249
+2688,84,Carlow County Council,198,111,87
+2689,84,Cavan County Council,252,145,107
+2690,84,Clare County Council,394,207,187
+2691,84,Cork City Council,750,441,309
+2692,84,Cork County Council,1059,598,461
+2693,84,Donegal County Council,623,351,272
+2694,84,Dublin City Council,1916,1177,739
+2695,84,Dún Laoghaire Rathdown County Council,992,582,410
+2696,84,Fingal County Council,642,365,277
+2697,84,Galway City Council,236,148,88
+2698,84,Galway County Council,603,306,297
+2699,84,Ireland,15655,8890,6765
+2700,84,Kerry County Council,607,331,276
+2701,84,Kildare County Council,464,246,218
+2702,84,Kilkenny County Council,347,188,159
+2703,84,Laois County Council,205,99,106
+2704,84,Leitrim County Council,144,87,57
+2705,84,Limerick City & County Council,687,409,278
+2706,84,Longford County Council,140,74,66
+2707,84,Louth County Council,416,222,194
+2708,84,Mayo  County Council,543,311,232
+2709,84,Meath County Council,460,256,204
+2710,84,Monaghan County Council,207,113,94
+2711,84,Offaly County Council,251,146,105
+2712,84,Roscommon County Council,249,130,119
+2713,84,Sligo County Council,237,127,110
+2714,84,South Dublin County Council,711,421,290
+2715,84,Tipperary County Council,611,339,272
+2716,84,Waterford City & County Council,429,262,167
+2717,84,Westmeath County Council,275,159,116
+2718,84,Wexford County Council,553,299,254
+2719,84,Wicklow County Council,454,240,214
+2720,85,Carlow County Council,141,77,64
+2721,85,Cavan County Council,245,137,108
+2722,85,Clare County Council,376,202,174
+2723,85,Cork City Council,653,401,252
+2724,85,Cork County Council,1050,593,457
+2725,85,Donegal County Council,551,317,234
+2726,85,Dublin City Council,1786,1109,677
+2727,85,Dún Laoghaire Rathdown County Council,937,570,367
+2728,85,Fingal County Council,546,300,246
+2729,85,Galway City Council,211,130,81
+2730,85,Galway County Council,569,303,266
+2731,85,Ireland,14457,8303,6154
+2732,85,Kerry County Council,499,255,244
+2733,85,Kildare County Council,475,269,206
+2734,85,Kilkenny County Council,309,183,126
+2735,85,Laois County Council,198,114,84
+2736,85,Leitrim County Council,108,55,53
+2737,85,Limerick City & County Council,597,338,259
+2738,85,Longford County Council,143,78,65
+2739,85,Louth County Council,352,209,143
+2740,85,Mayo  County Council,523,304,219
+2741,85,Meath County Council,438,238,200
+2742,85,Monaghan County Council,175,96,79
+2743,85,Offaly County Council,295,168,127
+2744,85,Roscommon County Council,235,126,109
+2745,85,Sligo County Council,260,146,114
+2746,85,South Dublin County Council,644,394,250
+2747,85,Tipperary County Council,551,308,243
+2748,85,Waterford City & County Council,396,213,183
+2749,85,Westmeath County Council,274,144,130
+2750,85,Wexford County Council,503,287,216
+2751,85,Wicklow County Council,417,239,178
+2752,86,Carlow County Council,159,86,73
+2753,86,Cavan County Council,226,128,98
+2754,86,Clare County Council,355,197,158
+2755,86,Cork City Council,614,378,236
+2756,86,Cork County Council,923,511,412
+2757,86,Donegal County Council,434,266,168
+2758,86,Dublin City Council,1562,988,574
+2759,86,Dún Laoghaire Rathdown County Council,817,482,335
+2760,86,Fingal County Council,500,293,207
+2761,86,Galway City Council,181,110,71
+2762,86,Galway County Council,552,317,235
+2763,86,Ireland,12871,7501,5370
+2764,86,Kerry County Council,439,260,179
+2765,86,Kildare County Council,371,218,153
+2766,86,Kilkenny County Council,307,189,118
+2767,86,Laois County Council,176,95,81
+2768,86,Leitrim County Council,92,54,38
+2769,86,Limerick City & County Council,556,321,235
+2770,86,Longford County Council,140,79,61
+2771,86,Louth County Council,317,192,125
+2772,86,Mayo  County Council,451,247,204
+2773,86,Meath County Council,402,216,186
+2774,86,Monaghan County Council,171,99,72
+2775,86,Offaly County Council,225,131,94
+2776,86,Roscommon County Council,235,129,106
+2777,86,Sligo County Council,222,130,92
+2778,86,South Dublin County Council,530,304,226
+2779,86,Tipperary County Council,503,293,210
+2780,86,Waterford City & County Council,354,186,168
+2781,86,Westmeath County Council,242,131,111
+2782,86,Wexford County Council,443,260,183
+2783,86,Wicklow County Council,372,211,161
+2784,87,Carlow County Council,119,62,57
+2785,87,Cavan County Council,182,107,75
+2786,87,Clare County Council,283,170,113
+2787,87,Cork City Council,528,309,219
+2788,87,Cork County Council,804,468,336
+2789,87,Donegal County Council,433,256,177
+2790,87,Dublin City Council,1417,908,509
+2791,87,Dún Laoghaire Rathdown County Council,736,448,288
+2792,87,Fingal County Council,434,249,185
+2793,87,Galway City Council,143,91,52
+2794,87,Galway County Council,439,244,195
+2795,87,Ireland,11281,6766,4515
+2796,87,Kerry County Council,424,260,164
+2797,87,Kildare County Council,341,201,140
+2798,87,Kilkenny County Council,278,171,107
+2799,87,Laois County Council,158,93,65
+2800,87,Leitrim County Council,105,55,50
+2801,87,Limerick City & County Council,451,260,191
+2802,87,Longford County Council,102,65,37
+2803,87,Louth County Council,266,176,90
+2804,87,Mayo  County Council,393,238,155
+2805,87,Meath County Council,379,237,142
+2806,87,Monaghan County Council,156,93,63
+2807,87,Offaly County Council,173,100,73
+2808,87,Roscommon County Council,226,134,92
+2809,87,Sligo County Council,194,103,91
+2810,87,South Dublin County Council,474,271,203
+2811,87,Tipperary County Council,430,269,161
+2812,87,Waterford City & County Council,328,198,130
+2813,87,Westmeath County Council,228,129,99
+2814,87,Wexford County Council,366,226,140
+2815,87,Wicklow County Council,291,175,116
+2816,88,Carlow County Council,105,68,37
+2817,88,Cavan County Council,188,105,83
+2818,88,Clare County Council,258,144,114
+2819,88,Cork City Council,454,291,163
+2820,88,Cork County Council,690,427,263
+2821,88,Donegal County Council,339,208,131
+2822,88,Dublin City Council,1330,886,444
+2823,88,Dún Laoghaire Rathdown County Council,668,412,256
+2824,88,Fingal County Council,324,219,105
+2825,88,Galway City Council,141,75,66
+2826,88,Galway County Council,433,257,176
+2827,88,Ireland,9698,5927,3771
+2828,88,Kerry County Council,322,183,139
+2829,88,Kildare County Council,265,164,101
+2830,88,Kilkenny County Council,203,126,77
+2831,88,Laois County Council,137,85,52
+2832,88,Leitrim County Council,80,46,34
+2833,88,Limerick City & County Council,357,209,148
+2834,88,Longford County Council,91,49,42
+2835,88,Louth County Council,244,143,101
+2836,88,Mayo  County Council,393,239,154
+2837,88,Meath County Council,282,171,111
+2838,88,Monaghan County Council,131,79,52
+2839,88,Offaly County Council,178,106,72
+2840,88,Roscommon County Council,177,102,75
+2841,88,Sligo County Council,168,100,68
+2842,88,South Dublin County Council,379,241,138
+2843,88,Tipperary County Council,364,219,145
+2844,88,Waterford City & County Council,266,158,108
+2845,88,Westmeath County Council,167,98,69
+2846,88,Wexford County Council,323,170,153
+2847,88,Wicklow County Council,241,147,94
+2848,89,Carlow County Council,86,54,32
+2849,89,Cavan County Council,134,79,55
+2850,89,Clare County Council,207,132,75
+2851,89,Cork City Council,365,232,133
+2852,89,Cork County Council,549,340,209
+2853,89,Donegal County Council,310,172,138
+2854,89,Dublin City Council,1066,712,354
+2855,89,Dún Laoghaire Rathdown County Council,525,331,194
+2856,89,Fingal County Council,333,192,141
+2857,89,Galway City Council,96,54,42
+2858,89,Galway County Council,360,223,137
+2859,89,Ireland,7997,4961,3036
+2860,89,Kerry County Council,269,182,87
+2861,89,Kildare County Council,242,160,82
+2862,89,Kilkenny County Council,188,115,73
+2863,89,Laois County Council,96,64,32
+2864,89,Leitrim County Council,56,39,17
+2865,89,Limerick City & County Council,317,202,115
+2866,89,Longford County Council,73,42,31
+2867,89,Louth County Council,183,116,67
+2868,89,Mayo  County Council,269,157,112
+2869,89,Meath County Council,224,143,81
+2870,89,Monaghan County Council,129,73,56
+2871,89,Offaly County Council,120,62,58
+2872,89,Roscommon County Council,149,100,49
+2873,89,Sligo County Council,140,87,53
+2874,89,South Dublin County Council,319,188,131
+2875,89,Tipperary County Council,332,191,141
+2876,89,Waterford City & County Council,226,149,77
+2877,89,Westmeath County Council,131,78,53
+2878,89,Wexford County Council,257,159,98
+2879,89,Wicklow County Council,246,133,113
+2880,90,Carlow County Council,65,48,17
+2881,90,Cavan County Council,96,57,39
+2882,90,Clare County Council,174,106,68
+2883,90,Cork City Council,335,222,113
+2884,90,Cork County Council,475,282,193
+2885,90,Donegal County Council,248,154,94
+2886,90,Dublin City Council,885,614,271
+2887,90,Dún Laoghaire Rathdown County Council,493,312,181
+2888,90,Fingal County Council,256,171,85
+2889,90,Galway City Council,88,54,34
+2890,90,Galway County Council,289,178,111
+2891,90,Ireland,6729,4285,2444
+2892,90,Kerry County Council,228,147,81
+2893,90,Kildare County Council,196,124,72
+2894,90,Kilkenny County Council,131,82,49
+2895,90,Laois County Council,70,44,26
+2896,90,Leitrim County Council,61,33,28
+2897,90,Limerick City & County Council,248,155,93
+2898,90,Longford County Council,56,39,17
+2899,90,Louth County Council,149,92,57
+2900,90,Mayo  County Council,256,157,99
+2901,90,Meath County Council,203,136,67
+2902,90,Monaghan County Council,88,56,32
+2903,90,Offaly County Council,107,63,44
+2904,90,Roscommon County Council,137,88,49
+2905,90,Sligo County Council,105,60,45
+2906,90,South Dublin County Council,289,168,121
+2907,90,Tipperary County Council,280,181,99
+2908,90,Waterford City & County Council,204,126,78
+2909,90,Westmeath County Council,123,84,39
+2910,90,Wexford County Council,217,139,78
+2911,90,Wicklow County Council,177,113,64
+2912,91,Carlow County Council,72,45,27
+2913,91,Cavan County Council,98,62,36
+2914,91,Clare County Council,138,89,49
+2915,91,Cork City Council,272,177,95
+2916,91,Cork County Council,430,282,148
+2917,91,Donegal County Council,207,136,71
+2918,91,Dublin City Council,778,534,244
+2919,91,Dún Laoghaire Rathdown County Council,379,251,128
+2920,91,Fingal County Council,211,153,58
+2921,91,Galway City Council,102,68,34
+2922,91,Galway County Council,254,180,74
+2923,91,Ireland,5731,3781,1950
+2924,91,Kerry County Council,209,133,76
+2925,91,Kildare County Council,153,102,51
+2926,91,Kilkenny County Council,138,93,45
+2927,91,Laois County Council,89,49,40
+2928,91,Leitrim County Council,57,36,21
+2929,91,Limerick City & County Council,221,152,69
+2930,91,Longford County Council,43,32,11
+2931,91,Louth County Council,132,95,37
+2932,91,Mayo  County Council,218,149,69
+2933,91,Meath County Council,144,88,56
+2934,91,Monaghan County Council,66,47,19
+2935,91,Offaly County Council,77,48,29
+2936,91,Roscommon County Council,96,56,40
+2937,91,Sligo County Council,86,56,30
+2938,91,South Dublin County Council,210,119,91
+2939,91,Tipperary County Council,230,150,80
+2940,91,Waterford City & County Council,171,108,63
+2941,91,Westmeath County Council,109,73,36
+2942,91,Wexford County Council,177,115,62
+2943,91,Wicklow County Council,164,103,61
+2944,92,Carlow County Council,38,24,14
+2945,92,Cavan County Council,67,52,15
+2946,92,Clare County Council,99,71,28
+2947,92,Cork City Council,177,117,60
+2948,92,Cork County Council,304,211,93
+2949,92,Donegal County Council,148,94,54
+2950,92,Dublin City Council,624,455,169
+2951,92,Dún Laoghaire Rathdown County Council,287,194,93
+2952,92,Fingal County Council,148,106,42
+2953,92,Galway City Council,64,45,19
+2954,92,Galway County Council,190,131,59
+2955,92,Ireland,4106,2809,1297
+2956,92,Kerry County Council,128,88,40
+2957,92,Kildare County Council,111,70,41
+2958,92,Kilkenny County Council,83,58,25
+2959,92,Laois County Council,65,48,17
+2960,92,Leitrim County Council,42,30,12
+2961,92,Limerick City & County Council,150,103,47
+2962,92,Longford County Council,26,19,7
+2963,92,Louth County Council,100,66,34
+2964,92,Mayo  County Council,129,85,44
+2965,92,Meath County Council,125,84,41
+2966,92,Monaghan County Council,66,44,22
+2967,92,Offaly County Council,57,32,25
+2968,92,Roscommon County Council,76,54,22
+2969,92,Sligo County Council,54,38,16
+2970,92,South Dublin County Council,146,96,50
+2971,92,Tipperary County Council,170,102,68
+2972,92,Waterford City & County Council,120,87,33
+2973,92,Westmeath County Council,73,44,29
+2974,92,Wexford County Council,125,80,45
+2975,92,Wicklow County Council,114,81,33
+2976,93,Carlow County Council,26,22,4
+2977,93,Cavan County Council,50,35,15
+2978,93,Clare County Council,78,58,20
+2979,93,Cork City Council,149,111,38
+2980,93,Cork County Council,236,172,64
+2981,93,Donegal County Council,130,89,41
+2982,93,Dublin City Council,447,322,125
+2983,93,Dún Laoghaire Rathdown County Council,230,162,68
+2984,93,Fingal County Council,118,80,38
+2985,93,Galway City Council,53,43,10
+2986,93,Galway County Council,129,91,38
+2987,93,Ireland,3257,2320,937
+2988,93,Kerry County Council,127,92,35
+2989,93,Kildare County Council,114,81,33
+2990,93,Kilkenny County Council,66,45,21
+2991,93,Laois County Council,38,21,17
+2992,93,Leitrim County Council,32,22,10
+2993,93,Limerick City & County Council,130,96,34
+2994,93,Longford County Council,36,30,6
+2995,93,Louth County Council,88,63,25
+2996,93,Mayo  County Council,122,93,29
+2997,93,Meath County Council,88,54,34
+2998,93,Monaghan County Council,45,29,16
+2999,93,Offaly County Council,48,39,9
+3000,93,Roscommon County Council,71,51,20
+3001,93,Sligo County Council,51,35,16
+3002,93,South Dublin County Council,115,84,31
+3003,93,Tipperary County Council,118,73,45
+3004,93,Waterford City & County Council,70,45,25
+3005,93,Westmeath County Council,60,44,16
+3006,93,Wexford County Council,110,76,34
+3007,93,Wicklow County Council,82,62,20
+3008,94,Carlow County Council,24,18,6
+3009,94,Cavan County Council,32,20,12
+3010,94,Clare County Council,54,40,14
+3011,94,Cork City Council,79,62,17
+3012,94,Cork County Council,153,110,43
+3013,94,Donegal County Council,88,62,26
+3014,94,Dublin City Council,362,264,98
+3015,94,Dún Laoghaire Rathdown County Council,189,124,65
+3016,94,Fingal County Council,86,62,24
+3017,94,Galway City Council,26,17,9
+3018,94,Galway County Council,120,81,39
+3019,94,Ireland,2455,1737,718
+3020,94,Kerry County Council,78,56,22
+3021,94,Kildare County Council,64,39,25
+3022,94,Kilkenny County Council,63,44,19
+3023,94,Laois County Council,29,21,8
+3024,94,Leitrim County Council,22,14,8
+3025,94,Limerick City & County Council,98,74,24
+3026,94,Longford County Council,26,19,7
+3027,94,Louth County Council,50,39,11
+3028,94,Mayo  County Council,108,80,28
+3029,94,Meath County Council,72,52,20
+3030,94,Monaghan County Council,35,26,9
+3031,94,Offaly County Council,50,30,20
+3032,94,Roscommon County Council,55,32,23
+3033,94,Sligo County Council,57,45,12
+3034,94,South Dublin County Council,100,72,28
+3035,94,Tipperary County Council,91,63,28
+3036,94,Waterford City & County Council,57,40,17
+3037,94,Westmeath County Council,47,36,11
+3038,94,Wexford County Council,64,42,22
+3039,94,Wicklow County Council,76,53,23
+3040,95,Carlow County Council,14,12,2
+3041,95,Cavan County Council,29,21,8
+3042,95,Clare County Council,51,38,13
+3043,95,Cork City Council,61,42,19
+3044,95,Cork County Council,140,103,37
+3045,95,Donegal County Council,91,63,28
+3046,95,Dublin City Council,265,194,71
+3047,95,Dún Laoghaire Rathdown County Council,132,92,40
+3048,95,Fingal County Council,53,39,14
+3049,95,Galway City Council,24,20,4
+3050,95,Galway County Council,98,69,29
+3051,95,Ireland,1826,1344,482
+3052,95,Kerry County Council,66,56,10
+3053,95,Kildare County Council,54,40,14
+3054,95,Kilkenny County Council,36,28,8
+3055,95,Laois County Council,13,8,5
+3056,95,Leitrim County Council,21,14,7
+3057,95,Limerick City & County Council,68,50,18
+3058,95,Longford County Council,11,10,1
+3059,95,Louth County Council,50,39,11
+3060,95,Mayo  County Council,61,49,12
+3061,95,Meath County Council,63,44,19
+3062,95,Monaghan County Council,21,20,1
+3063,95,Offaly County Council,27,19,8
+3064,95,Roscommon County Council,38,30,8
+3065,95,Sligo County Council,23,18,5
+3066,95,South Dublin County Council,63,40,23
+3067,95,Tipperary County Council,70,49,21
+3068,95,Waterford City & County Council,33,29,4
+3069,95,Westmeath County Council,40,28,12
+3070,95,Wexford County Council,51,36,15
+3071,95,Wicklow County Council,59,44,15
+3072,96,Carlow County Council,11,8,3
+3073,96,Cavan County Council,23,16,7
+3074,96,Clare County Council,40,28,12
+3075,96,Cork City Council,54,43,11
+3076,96,Cork County Council,84,66,18
+3077,96,Donegal County Council,48,34,14
+3078,96,Dublin City Council,200,142,58
+3079,96,Dún Laoghaire Rathdown County Council,95,61,34
+3080,96,Fingal County Council,48,32,16
+3081,96,Galway City Council,19,16,3
+3082,96,Galway County Council,54,47,7
+3083,96,Ireland,1283,956,327
+3084,96,Kerry County Council,33,24,9
+3085,96,Kildare County Council,37,29,8
+3086,96,Kilkenny County Council,32,23,9
+3087,96,Laois County Council,15,14,1
+3088,96,Leitrim County Council,6,6,0
+3089,96,Limerick City & County Council,50,36,14
+3090,96,Longford County Council,13,10,3
+3091,96,Louth County Council,30,25,5
+3092,96,Mayo  County Council,52,42,10
+3093,96,Meath County Council,42,33,9
+3094,96,Monaghan County Council,17,14,3
+3095,96,Offaly County Council,19,11,8
+3096,96,Roscommon County Council,28,19,9
+3097,96,Sligo County Council,21,14,7
+3098,96,South Dublin County Council,41,34,7
+3099,96,Tipperary County Council,41,34,7
+3100,96,Waterford City & County Council,26,19,7
+3101,96,Westmeath County Council,24,17,7
+3102,96,Wexford County Council,42,33,9
+3103,96,Wicklow County Council,38,26,12
+3104,97,Carlow County Council,11,9,2
+3105,97,Cavan County Council,13,10,3
+3106,97,Clare County Council,31,20,11
+3107,97,Cork City Council,39,28,11
+3108,97,Cork County Council,65,49,16
+3109,97,Donegal County Council,27,21,6
+3110,97,Dublin City Council,115,87,28
+3111,97,Dún Laoghaire Rathdown County Council,57,43,14
+3112,97,Fingal County Council,51,40,11
+3113,97,Galway City Council,12,10,2
+3114,97,Galway County Council,44,36,8
+3115,97,Ireland,949,732,217
+3116,97,Kerry County Council,45,32,13
+3117,97,Kildare County Council,28,21,7
+3118,97,Kilkenny County Council,24,19,5
+3119,97,Laois County Council,10,8,2
+3120,97,Leitrim County Council,17,14,3
+3121,97,Limerick City & County Council,33,24,9
+3122,97,Longford County Council,8,6,2
+3123,97,Louth County Council,25,20,5
+3124,97,Mayo  County Council,34,24,10
+3125,97,Meath County Council,24,18,6
+3126,97,Monaghan County Council,9,9,0
+3127,97,Offaly County Council,16,13,3
+3128,97,Roscommon County Council,13,12,1
+3129,97,Sligo County Council,22,18,4
+3130,97,South Dublin County Council,38,29,9
+3131,97,Tipperary County Council,33,27,6
+3132,97,Waterford City & County Council,20,15,5
+3133,97,Westmeath County Council,23,18,5
+3134,97,Wexford County Council,37,31,6
+3135,97,Wicklow County Council,25,21,4
+3136,98,Carlow County Council,7,5,2
+3137,98,Cavan County Council,8,7,1
+3138,98,Clare County Council,15,12,3
+3139,98,Cork City Council,23,20,3
+3140,98,Cork County Council,47,40,7
+3141,98,Donegal County Council,15,11,4
+3142,98,Dublin City Council,81,57,24
+3143,98,Dún Laoghaire Rathdown County Council,45,35,10
+3144,98,Fingal County Council,21,18,3
+3145,98,Galway City Council,15,14,1
+3146,98,Galway County Council,34,29,5
+3147,98,Ireland,622,492,130
+3148,98,Kerry County Council,19,15,4
+3149,98,Kildare County Council,15,12,3
+3150,98,Kilkenny County Council,16,14,2
+3151,98,Laois County Council,5,1,4
+3152,98,Leitrim County Council,6,5,1
+3153,98,Limerick City & County Council,36,27,9
+3154,98,Longford County Council,6,6,0
+3155,98,Louth County Council,20,17,3
+3156,98,Mayo  County Council,27,18,9
+3157,98,Meath County Council,19,16,3
+3158,98,Monaghan County Council,11,9,2
+3159,98,Offaly County Council,8,7,1
+3160,98,Roscommon County Council,7,6,1
+3161,98,Sligo County Council,12,11,1
+3162,98,South Dublin County Council,17,13,4
+3163,98,Tipperary County Council,21,16,5
+3164,98,Waterford City & County Council,17,13,4
+3165,98,Westmeath County Council,11,8,3
+3166,98,Wexford County Council,22,18,4
+3167,98,Wicklow County Council,16,12,4
+3168,99,Carlow County Council,7,6,1
+3169,99,Cavan County Council,6,6,0
+3170,99,Clare County Council,14,11,3
+3171,99,Cork City Council,24,20,4
+3172,99,Cork County Council,25,17,8
+3173,99,Donegal County Council,18,13,5
+3174,99,Dublin City Council,64,49,15
+3175,99,Dún Laoghaire Rathdown County Council,32,26,6
+3176,99,Fingal County Council,22,20,2
+3177,99,Galway City Council,4,1,3
+3178,99,Galway County Council,22,16,6
+3179,99,Ireland,441,336,105
+3180,99,Kerry County Council,12,9,3
+3181,99,Kildare County Council,13,12,1
+3182,99,Kilkenny County Council,9,5,4
+3183,99,Laois County Council,3,3,0
+3184,99,Leitrim County Council,3,3,0
+3185,99,Limerick City & County Council,17,11,6
+3186,99,Longford County Council,1,0,1
+3187,99,Louth County Council,7,6,1
+3188,99,Mayo  County Council,14,12,2
+3189,99,Meath County Council,15,12,3
+3190,99,Monaghan County Council,5,5,0
+3191,99,Offaly County Council,4,4,0
+3192,99,Roscommon County Council,9,6,3
+3193,99,Sligo County Council,10,8,2
+3194,99,South Dublin County Council,17,10,7
+3195,99,Tipperary County Council,10,5,5
+3196,99,Waterford City & County Council,19,15,4
+3197,99,Westmeath County Council,6,3,3
+3198,99,Wexford County Council,21,15,6
+3199,99,Wicklow County Council,8,7,1
+3200,100,Carlow County Council,3,3,0
+3201,100,Cavan County Council,18,12,6
+3202,100,Clare County Council,19,16,3
+3203,100,Cork City Council,26,20,6
+3204,100,Cork County Council,54,43,11
+3205,100,Donegal County Council,33,31,2
+3206,100,Dublin City Council,100,80,20
+3207,100,Dún Laoghaire Rathdown County Council,55,42,13
+3208,100,Fingal County Council,21,17,4
+3209,100,Galway City Council,8,5,3
+3210,100,Galway County Council,42,26,16
+3211,100,Ireland,738,584,154
+3212,100,Kerry County Council,14,12,2
+3213,100,Kildare County Council,25,19,6
+3214,100,Kilkenny County Council,18,12,6
+3215,100,Laois County Council,10,10,0
+3216,100,Leitrim County Council,4,4,0
+3217,100,Limerick City & County Council,41,34,7
+3218,100,Longford County Council,6,5,1
+3219,100,Louth County Council,28,23,5
+3220,100,Mayo  County Council,31,25,6
+3221,100,Meath County Council,21,17,4
+3222,100,Monaghan County Council,8,7,1
+3223,100,Offaly County Council,5,4,1
+3224,100,Roscommon County Council,12,7,5
+3225,100,Sligo County Council,12,9,3
+3226,100,South Dublin County Council,36,29,7
+3227,100,Tipperary County Council,23,19,4
+3228,100,Waterford City & County Council,19,15,4
+3229,100,Westmeath County Council,12,9,3
+3230,100,Wexford County Council,16,14,2
+3231,100,Wicklow County Council,18,15,3
