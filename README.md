@@ -14,6 +14,7 @@ This repository is organized into a series of folders named "assignments" and "m
 |1 |Assignment Task # 2|06/10/2025|
 |2 |Assignment Task # 3|12/10/2025|
 |3 |Assignment Task # 4|N/A|
-|3 |Assignment Task # 5|27/10/2025|
+|4 |Assignment Task # 5|27/10/2025|
+|5 |Assignment Task # 6|02/11/2025|
 
 

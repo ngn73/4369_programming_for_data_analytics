@@ -50,7 +50,7 @@ pivot_df = df.pivot(index=['Age', 'Region'], columns='Sex', values='VALUE')
 pivot_df = pivot_df.reset_index()
 
 #Output to CSV for testing
-pivot_df.to_csv('popage.csv', index=True)
+pivot_df.to_csv('testdata.csv', index=True)
 
 '''
 #Weighted mean is sum(age*population at age) / sum (populations at age)
