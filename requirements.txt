@@ -1,0 +1,9 @@
+# ======================================================
+#   Built-in libraries (no installation needed):
+#
+#   datetime - Date/time handling
+#   os - Operating system interface
+# ======================================================
+
+# external libraries (installation needed):
+PyGithub
