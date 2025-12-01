@@ -7,3 +7,4 @@
 
 # external libraries (installation needed):
 PyGithub
+python-dotenv
