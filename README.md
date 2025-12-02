@@ -25,8 +25,21 @@ This repository is organized into a series of folders named "assignments", "my-w
 ## Big Project
 <img src="./images/github_logo.png" alt="Github" width="200">  
 
-For the main Project for this Module, I used the GitHub API  as a data source to look at Program Language Trends for the past 10 years
+For the main Project for this Module, I analyzed **Trends in Programming Languages** as seen from activity within the GitHub event streams.  
+I used the GitHub API and other public datasets as a data source to look at Program Language Trends for the past 10 years with Github.  
 
 While GitHub activity archives start from February 12, 2011, I will focus on past decade of records 2015-2025  
 
+**I hope to gain insight into the following Programming Language Trends**
+* Analyze which languages are growing/declining over time
+* Analyze language switching patterns (Devs moving from language x to language y)
+* Has the recent explosion of AI resulted in a rise of AI-related repositories 
+    * How have these AI-related repositories grown in recent years
+    * How does this growth compare with traditional languages
+* Compare developer activity by geography and timezone
+    * How does India and China compare with EU/US in github activity 
+* Visualize the shift from older to newer languages  
+  
+    
+      
 [Project Notebook](project/Project.ipynb)

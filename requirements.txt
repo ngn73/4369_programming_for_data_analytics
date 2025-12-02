@@ -8,3 +8,4 @@
 # external libraries (installation needed):
 PyGithub
 python-dotenv
+google-cloud-bigquery
